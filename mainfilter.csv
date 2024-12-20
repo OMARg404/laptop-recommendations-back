@@ -1,0 +1,2161 @@
+Status,Brand,Model,CPU,RAM,Storage,Storagetype,GPU,Screen,Touch,FinalPrice
+New,Asus,ExpertBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,1009.0
+New,Alurin,Go,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,299.0
+New,Asus,ExpertBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,789.0
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1199.0
+New,HP,15S,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,669.01
+New,MSI,Crosshair,Intel Core i7,32,1000,SSD,RTX 4060,17.3,No,1699.0
+New,Lenovo,ThinkPad,AMD Ryzen 5,8,256,SSD,RTX 3050,14.0,No,909.0
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,809.01
+New,Medion,Akoya,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,519.0
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 3050,16.1,No,1149.0
+New,Lenovo,V15,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,349.0
+New,MSI,Thin,Intel Core i7,16,1000,SSD,RTX 4050,15.6,No,1399.0
+New,Asus,ROG,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1199.0
+New,Lenovo,V15,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,476.99
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,391.0
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,699.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,799.0
+New,HP,15S,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,549.0
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,769.0
+New,MSI,Thin,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,999.0
+New,MSI,Cyborg,Intel Core i5,16,1000,SSD,RTX 4060,15.6,No,1249.0
+New,Asus,M515UA,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,789.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,729.0
+New,Asus,TUF,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1099.0
+New,Acer,Aspire,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,539.01
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1179.0
+New,Alurin,Go,Intel Celeron,8,256,SSD,RTX 3050,14.0,No,239.0
+New,HP,Victus,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,999.0
+New,HP,Pavilion,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,799.0
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,519.01
+New,HP,15S,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,789.0
+New,MSI,Katana,Intel Core i7,16,512,SSD,RTX 4060,15.6,No,1549.0
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,539.01
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,539.0
+New,MSI,Vector,Intel Core i7,32,1000,SSD,RTX 4060,17.3,No,2249.0
+New,Asus,VivoBook,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1299.01
+New,Asus,ROG,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1139.01
+New,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,15.6,No,399.0
+New,HP,15S,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,789.0
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,599.01
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3060,16.1,No,1699.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,609.0
+New,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1089.0
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 3060,16.1,No,1399.0
+New,HP,15S,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,899.01
+New,HP,15S,AMD Ryzen 5,12,512,SSD,RTX 3050,15.6,No,549.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,929.0
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4050,16.0,No,1899.01
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,829.0
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,449.0
+New,Apple,MacBook Air,Apple M1,8,256,SSD,RTX 3050,13.3,No,1219.0
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,699.0
+New,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 4060,15.6,No,1349.0
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4070,15.6,No,1699.0
+New,Asus,M515UA,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,699.0
+New,HP,Victus,AMD Ryzen 7,16,512,SSD,RTX 3060,16.1,No,1299.01
+New,HP,250,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,399.0
+New,HP,Omen,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,1149.0
+New,MSI,Modern,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,839.0
+New,HP,255,AMD Athlon,8,512,SSD,RTX 3050,15.6,No,379.0
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,809.01
+New,Lenovo,V15,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,779.0
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,749.0
+New,MSI,Thin,Intel Core i5,16,512,SSD,RTX 4050,15.6,No,1099.0
+New,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,999.0
+New,HP,15S,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,649.01
+New,MSI,Vector,Intel Core i7,32,1000,SSD,RTX 4070,17.3,No,2499.0
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,859.0
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1499.01
+New,Apple,MacBook Pro,Apple M2,8,256,SSD,RTX 3050,13.3,No,1599.0
+New,Asus,TUF,AMD Ryzen 9,32,512,SSD,RTX 4070,15.6,No,1699.01
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1699.0
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 3050,16.1,No,1199.0
+New,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,999.0
+New,MSI,Modern,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,499.0
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,499.0
+New,MSI,Prestige,Intel Core i5,16,512,SSD,RTX 2050,14.0,No,999.0
+New,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,749.0
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,879.0
+New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 2050,14.0,No,1489.0
+New,HP,Pavilion,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,999.0
+New,HP,Victus,Intel Core i5,16,512,SSD,GTX 1650,15.6,No,999.0
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,589.0
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,959.0
+New,HP,Victus,Intel Core i5,16,512,SSD,GTX 1650,15.6,No,1039.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,599.0
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,739.01
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,2449.0
+New,Acer,Aspire,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,839.0
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,499.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,699.0
+New,MSI,Pulse,Intel Core i9,32,1000,SSD,RTX 4060,15.6,No,2399.01
+New,Lenovo,IdeaPad,AMD 3020e,4,128,SSD,RTX 3050,15.6,No,442.99
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,689.01
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,749.0
+New,Lenovo,IdeaPad,AMD 3020e,4,256,SSD,RTX 3050,15.6,No,321.99
+New,MSI,Modern,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,599.0
+New,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1199.0
+New,Asus,TUF,Intel Core i5,16,512,SSD,RTX 2050,15.6,No,949.0
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,799.0
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,3299.99
+New,Medion,Akoya,AMD Ryzen 7,8,256,SSD,RTX 3050,15.6,No,478.99
+New,Asus,ExpertBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,989.0
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,439.99
+New,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,529.0
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,16.0,No,709.0
+New,Asus,VivoBook,AMD Ryzen 5,8,512,SSD,610 M,15.6,No,509.99
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,659.0
+New,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,749.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,589.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,549.0
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,459.0
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,16.0,No,819.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,16.0,No,609.01
+New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,999.0
+New,Acer,Aspire,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,739.01
+New,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1399.0
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,759.01
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,729.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,749.0
+New,HP,255,AMD Athlon,8,256,SSD,RTX 3050,15.6,No,349.0
+New,Lenovo,IdeaPad,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,479.0
+New,HP,255,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,873.29
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,589.0
+New,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,14.0,No,399.01
+New,Lenovo,Legion,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1079.01
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,649.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,999.0
+New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1019.0
+New,MSI,Pulse,Intel Core i7,32,1000,SSD,RTX 3060,17.3,No,1499.0
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,13.6,No,1519.0
+New,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,17.3,No,729.0
+New,MSI,Raider,Intel Core i9,32,1000,SSD,RTX 4060,16.0,No,2599.0
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,699.0
+New,Lenovo,Legion,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1599.0
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,739.01
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,709.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1059.0
+New,MSI,Modern,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,799.0
+New,MSI,Modern,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,999.0
+Refurbished,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,899.0
+New,MSI,Pulse,Intel Core i9,32,1000,SSD,RTX 4070,15.6,No,2299.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4060,15.6,No,1899.0
+New,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,14.0,Yes,449.0
+New,Lenovo,V15,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,699.0
+New,Asus,Chromebook,Intel Celeron,8,32,SSD,RTX 3050,14.0,No,349.0
+New,MSI,Vector,Intel Core i9,32,1000,SSD,RTX 4080,16.0,No,2599.0
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,579.01
+New,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,749.0
+New,Asus,ExpertBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,549.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,979.0
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,969.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1099.0
+New,Lenovo,Legion,Intel Core i5,16,512,SSD,RTX 3060,15.6,No,1319.01
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,Yes,799.0
+New,Apple,MacBook Air,Apple M1,8,256,SSD,RTX 3050,13.3,No,1219.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,GTX 1650,15.6,No,879.0
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 2050,14.0,No,1359.0
+New,Asus,F515,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,839.0
+New,Gigabyte,G5,Intel Core i5,16,512,SSD,RTX 4060,15.6,No,1109.0
+New,HP,Chromebook,AMD Ryzen 3,8,128,SSD,RTX 3050,14.0,No,579.01
+New,Dell,Vostro,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,599.0
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,13.6,No,1519.0
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 4060,15.6,No,1349.0
+New,MSI,Thin,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,999.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,GTX 1650,15.6,No,829.01
+New,Lenovo,Legion,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1569.01
+New,HP,15S,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,479.0
+New,HP,255,AMD 3020e,8,256,SSD,RTX 3050,15.6,No,339.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,GTX 1650,15.6,No,779.01
+New,Medion,Akoya,AMD Ryzen 5,4,256,SSD,RTX 3050,14.0,No,499.0
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,459.0
+New,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,999.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1899.0
+New,MSI,Modern,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,819.0
+New,HP,15S,AMD Ryzen 7,12,512,SSD,RTX 3050,15.6,No,749.0
+New,Lenovo,IdeaPad,Qualcomm Snapdragon 7,8,128,eMMC,RTX 3050,13.3,Yes,599.0
+New,Acer,Nitro,AMD Ryzen 5,16,1000,SSD,RTX 3050,15.6,No,1199.0
+New,Lenovo,V15,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,449.0
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,1999.0
+New,HP,15S,AMD 3020e,4,128,SSD,RTX 3050,15.6,No,379.0
+New,Lenovo,IdeaPad,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,529.0
+New,LG,Gram,Intel Evo Core i7,16,512,SSD,RTX 3050,17.0,No,1799.0
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 4050,16.0,No,1999.0
+New,Asus,E410,Intel Celeron,4,64,eMMC,RTX 3050,14.0,No,349.0
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 4060,17.3,No,1799.0
+New,Medion,Akoya,Intel Core i5,8,512,SSD,RTX 3050,16.1,No,499.0
+New,Lenovo,V15,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,399.0
+New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1149.0
+Refurbished,Alurin,Flex Advance,Intel Core i5,8,0,SSD,RTX 3050,14.0,No,368.7
+New,Acer,Aspire,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,499.0
+New,Asus,Chromebook,Intel Core i3,8,256,SSD,RTX 3050,15.6,Yes,699.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4070,17.3,No,2949.0
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,17.3,No,899.0
+New,HP,Victus,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,1099.0
+New,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 4070,17.3,No,2099.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1049.0
+New,Medion,Akoya,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,499.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,719.01
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,2799.99
+New,Apple,MacBook Air,Apple M1,8,256,SSD,RTX 3050,13.3,No,1219.0
+New,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,17.3,No,429.0
+New,Asus,VivoBook,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,499.0
+New,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1599.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1079.01
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,999.0
+New,MSI,Bravo,AMD Ryzen 5,8,512,SSD,RX 6500M,15.6,No,869.0
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1299.0
+New,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1799.0
+New,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1299.0
+New,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1169.01
+New,Asus,Chromebook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,899.0
+New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,1089.0
+New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1199.0
+New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,16.0,No,2899.0
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,15.3,No,1599.0
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,499.0
+New,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1499.0
+New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 4050,16.0,No,1899.0
+New,Asus,ZenBook,Intel Evo Core i7,16,512,SSD,RTX 3050,13.3,No,1199.0
+New,MSI,Bravo,AMD Ryzen 7,16,512,SSD,RX 6500M,15.6,No,999.0
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 4050,15.6,No,1139.01
+New,HP,Chromebook,Intel Celeron,4,64,eMMC,RTX 3050,15.6,No,376.0
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 4070,17.3,No,1999.0
+New,Lenovo,Yoga,Intel Evo Core i5,16,512,SSD,RTX 3050,14.5,No,1529.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,799.0
+New,MSI,Pulse,Intel Core i9,32,1000,SSD,RTX 3060,17.3,No,1599.0
+New,Acer,Aspire,Intel Core i5,8,512,SSD,MX 550,15.6,No,1209.01
+New,Lenovo,V15,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,699.0
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,1163.02
+New,Asus,VivoBook,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,499.0
+New,Asus,ExpertBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,609.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,14.0,Yes,899.0
+New,Lenovo,IdeaPad,Intel Core i7,8,512,SSD,RTX 3050,14.0,No,999.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4070,14.0,No,2549.01
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4070,16.0,No,2599.01
+New,Samsung,Galaxy Book,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1549.0
+New,Asus,ExpertBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,849.0
+New,MSI,Modern,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,699.0
+New,Lenovo,V15,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,345.0
+New,Apple,MacBook Pro,Apple M2,8,256,SSD,RTX 3050,13.3,No,1619.0
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 4050,15.6,No,1519.01
+New,Acer,Nitro,AMD Ryzen 7,32,1000,SSD,RTX 3080,15.6,No,2299.0
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,3099.99
+New,Lenovo,V15,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,479.0
+New,HP,250,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,629.01
+New,Lenovo,V15,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,475.0
+New,Asus,TUF,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1799.0
+New,Lenovo,V15,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,449.0
+New,Acer,Nitro,AMD Ryzen 7,16,1000,SSD,RTX 3050,15.6,No,1299.01
+New,Asus,TUF,Intel Core i7,32,1000,SSD,RTX 4060,15.6,No,1999.0
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,13.6,No,1519.0
+New,HP,Chromebook,Intel Celeron,4,64,eMMC,RTX 3050,14.0,No,379.0
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4060,16.0,Yes,2729.01
+New,Medion,Erazer,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,859.0
+New,LG,Gram,Intel Evo Core i7,32,1000,SSD,RTX 3050,17.0,No,1809.01
+New,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1899.0
+New,HP,255,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,388.0
+New,Lenovo,V15,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,499.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,944.82
+New,Asus,ROG,Intel Core i7,32,1000,SSD,RTX 4080,16.0,No,2599.01
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,909.0
+New,MSI,Summit,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.4,Yes,1799.0
+New,Asus,E410,Intel Celeron,4,64,eMMC,RTX 3050,14.0,No,452.0
+New,HP,Pavilion,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,899.01
+New,LG,Ultra,Intel Core i7,16,1000,SSD,RTX 3050,17.0,No,1999.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1029.01
+New,Lenovo,V15,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,509.0
+New,Lenovo,V15,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,442.99
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4050,16.0,Yes,2499.0
+New,Samsung,Galaxy Book,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,849.0
+New,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,690.15
+New,Asus,ExpertBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,1179.0
+New,Asus,TUF,AMD Ryzen 9,32,1000,SSD,RTX 4070,17.3,No,1899.01
+New,HP,Victus,Intel Core i7,32,512,SSD,RTX 3060,16.1,No,1499.01
+New,Asus,TUF,AMD Ryzen 7,32,1000,SSD,RTX 3070,15.6,No,1889.0
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,13.6,No,1869.0
+New,Lenovo,ThinkPad,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1129.0
+New,MSI,Prestige,Intel Evo Core i7,32,1000,SSD,RTX 3050,13.3,No,1599.0
+New,Lenovo,IdeaPad,Intel Celeron,8,64,eMMC,RTX 3050,14.0,No,391.0
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,709.0
+New,Dell,Vostro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,889.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,2599.0
+New,MSI,Modern,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,899.0
+New,HP,Omen,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,1399.0
+New,HP,Chromebook,Intel Pentium,8,128,eMMC,RTX 3050,14.0,No,458.99
+New,MSI,Creator,Intel Core i9,32,1000,SSD,RTX 4060,17.0,Yes,2979.01
+New,MSI,Prestige,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,1399.0
+New,HP,Pavilion,Intel Core i7,16,512,SSD,RTX 2050,14.0,No,1729.01
+New,Acer,Aspire,Intel Core i3,8,512,SSD,RTX 3050,14.0,No,599.0
+New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,2499.0
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,15.3,No,1599.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4090,16.0,No,3699.01
+New,Acer,Extensa,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,450.0
+New,Acer,Aspire,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,749.0
+New,Apple,MacBook Pro,Apple M2 Pro,16,512,SSD,RTX 3050,14.2,No,2209.0
+New,MSI,Creator,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1399.0
+New,Lenovo,V15,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,449.0
+New,Alurin,Flex,Intel Core i3,8,512,SSD,RTX 3050,14.0,No,449.9
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,13.6,No,1869.0
+New,Asus,Chromebook,Apple M1,8,64,eMMC,RTX 3050,14.0,Yes,449.01
+New,Lenovo,V15,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,419.0
+New,MSI,Prestige,Intel Evo Core i5,16,512,SSD,RTX 3050,14.0,No,1339.01
+Refurbished,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,312.83
+New,HP,Victus,Intel Core i7,16,1000,SSD,RTX 3050,16.1,No,1299.01
+New,HP,Pavilion,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,899.01
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 4050,16.0,No,1749.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4090,18.0,No,3699.01
+New,Asus,ZenBook,Intel Evo Core i5,16,512,SSD,RTX 3050,14.0,No,1199.0
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,17.3,No,999.0
+New,Apple,MacBook Air,Apple M1,16,256,SSD,RTX 3050,13.3,No,1349.0
+New,PcCom,Revolt,Intel Core i7,32,500,SSD,RTX 3060,15.6,No,1549.0
+New,HP,Omen,AMD Ryzen 7,16,1000,SSD,RTX 3060,16.1,No,1699.01
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1699.0
+New,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,15.6,No,382.0
+New,Alurin,Go,Intel Pentium,8,128,SSD,RTX 3050,14.1,No,309.91
+New,HP,255,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,379.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,2109.0
+New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1889.0
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,789.0
+New,HP,Envy,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.3,Yes,1399.0
+New,Asus,TUF,Intel Core i7,32,1000,SSD,RTX 4060,17.3,No,1999.0
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,399.0
+New,Apple,MacBook Air,Apple M2,16,256,SSD,RTX 3050,13.6,No,1639.01
+New,HP,250,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,669.01
+New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,511.49
+New,Medion,Deputy,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1529.0
+New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 4050,16.0,Yes,2379.01
+New,Dell,Vostro,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,869.0
+New,Asus,M515UA,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,699.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,18.0,No,2659.0
+New,Asus,VivoBook,AMD Ryzen 5,16,512,SSD,RTX 3050,16.0,No,579.01
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,15.3,No,1599.0
+New,MSI,Thin,Intel Core i5,16,512,SSD,RTX 4050,15.6,No,1199.0
+New,Gigabyte,G5,Intel Core i5,16,512,SSD,RTX 4060,15.6,No,1189.01
+New,Asus,ZenBook,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,809.45
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1599.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,635.0
+New,HP,Victus,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,1149.0
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,13.6,No,1869.0
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3080,17.3,No,2999.0
+New,Apple,MacBook Pro,Apple M2,8,512,SSD,RTX 3050,13.3,No,1849.0
+New,Apple,MacBook Pro,Apple M2,16,256,SSD,RTX 3050,13.3,No,1729.01
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,13.6,No,1519.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1579.0
+New,MSI,Stealth,Intel Core i9,32,2000,SSD,RTX 4070,16.0,No,2914.18
+New,Asus,ROG,Intel Core i7,32,1000,SSD,RTX 4050,16.0,No,1999.0
+New,MSI,Thin,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1049.0
+New,Asus,TUF,Intel Core i7,16,1000,SSD,RTX 4050,15.6,No,2049.0
+New,HP,Chromebook,Intel Celeron,8,128,eMMC,RTX 3050,15.6,No,429.01
+New,LG,Ultra,Intel Evo Core i7,32,1000,SSD,RTX 3050,17.0,No,2199.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4080,16.0,No,3599.0
+New,Lenovo,V15,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,739.01
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4050,16.0,No,1699.0
+New,MSI,Summit,Intel Evo Core i7,16,1000,SSD,RTX 3050,16.0,Yes,1829.0
+New,HP,15S,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,759.01
+New,Asus,ROG,AMD Ryzen 7,32,1000,SSD,RTX 3080,17.3,No,2999.0
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 3050,14.0,No,1589.01
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4060,14.0,No,2499.0
+New,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1199.0
+New,Apple,MacBook Pro,Apple M2 Pro,16,512,SSD,RTX 3050,14.2,No,2269.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4080,18.0,No,3399.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,509.0
+New,Apple,MacBook Air,Apple M1,16,512,SSD,RTX 3050,13.3,No,1569.01
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1719.0
+New,Asus,M515UA,AMD Ryzen 5,16,256,SSD,RTX 3050,15.6,No,625.41
+New,Apple,MacBook Pro,Apple M2,16,512,SSD,RTX 3050,13.3,No,1899.01
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,396.0
+New,Medion,Akoya,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,669.01
+New,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RX 7600S,16.0,No,1499.0
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,15.3,No,1829.0
+New,Acer,Aspire,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,729.0
+New,HP,Pavilion,Intel Core i5,8,512,SSD,RTX 3050,14.0,Yes,1149.0
+New,HP,ProBook,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,799.0
+New,MSI,Raider,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,3099.0
+New,Acer,Predator,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1779.0
+New,HP,250,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,819.0
+New,HP,Envy,Intel Evo Core i7,16,1000,SSD,A 370M,16.0,No,1799.0
+New,Asus,TUF,AMD Ryzen 9,16,1000,SSD,RX 7600S,16.0,No,1699.0
+New,Asus,TUF,Intel Core i5,16,512,SSD,GTX 1650,15.6,No,999.0
+New,HP,250,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,383.26
+New,HP,Chromebook,Intel Celeron,4,64,eMMC,RTX 3050,14.0,Yes,399.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,2699.0
+New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4070,17.0,No,2799.0
+Refurbished,MSI,Modern,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1099.0
+New,Acer,Aspire,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,306.99
+New,PcCom,Revolt,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,1649.0
+New,Microsoft,Surface Laptop,Intel Core i5,8,256,SSD,RTX 3050,12.4,Yes,869.0
+New,Asus,TUF,Intel Core i9,32,1000,SSD,RTX 4060,17.3,No,2099.0
+New,Asus,VivoBook,AMD Ryzen 7,16,1000,SSD,RTX 3050,15.6,No,1149.04
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,2599.0
+New,Asus,TUF,Intel Core i9,32,1000,SSD,RTX 4050,17.3,No,1889.0
+New,Asus,TUF,Intel Core i7,16,1000,SSD,RTX 4050,17.3,No,1619.0
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4070,17.0,Yes,3129.0
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,3499.99
+New,Acer,Extensa,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,394.0
+New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 4060,16.0,Yes,2499.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,16.0,No,549.99
+New,Medion,Deputy,Intel Core i5,8,512,SSD,GTX 1660,15.6,No,999.0
+New,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1699.01
+New,Asus,Chromebook,Intel Celeron,8,32,eMMC,RTX 3050,14.0,No,349.0
+New,Alurin,Flex Advance,Intel Core i5,8,500,SSD,RTX 3050,15.6,No,500.0
+New,Microsoft,Surface Laptop,Intel Evo Core i5,8,256,SSD,RTX 3050,13.5,Yes,1179.0
+New,LG,Gram,Intel Evo Core i7,32,1000,SSD,RTX 3050,16.0,No,1819.01
+New,MSI,Prestige,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.3,No,1499.01
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,2239.01
+New,Asus,14w,Intel Core i9,32,2000,SSD,RTX 4090,16.0,No,4949.01
+New,Acer,Predator,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1589.01
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3070,16.1,No,1999.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1189.0
+New,MSI,Titan,Intel Core i9,64,2000,SSD,RTX 4080,17.3,No,4899.0
+New,HP,250,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,559.01
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,417.99
+New,LG,Gram,Intel Core i7,16,512,SSD,RTX 2050,17.0,No,1409.01
+New,Asus,ROG,Intel Core i9,32,2000,SSD,RTX 4090,16.0,No,4299.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,879.0
+New,Apple,MacBook Pro,Apple M1,32,1000,SSD,RTX 3050,16.2,No,3849.0
+New,Acer,Predator,Intel Core i7,16,512,SSD,RTX 3060,14.0,No,1739.0
+New,Asus,VivoBook,Intel Core i5,16,1000,SSD,RTX 3050,15.6,No,665.0
+New,Asus,TUF,Intel Core i7,32,1000,SSD,RTX 4050,15.6,No,1699.01
+New,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3060,17.3,No,1629.0
+New,Primux,Ioxbook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,283.42
+New,Lenovo,Legion,AMD Ryzen 5,8,512,SSD,RTX 3060,15.6,No,1252.5
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 3080,15.6,No,3499.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,Yes,829.01
+New,Samsung,Galaxy Book,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1169.01
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,769.0
+New,Lenovo,V15,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,399.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1269.0
+Refurbished,Acer,Nitro,Intel Core i5,16,1000,SSD,RTX 3060,15.6,No,881.13
+New,LG,Gram,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,No,1549.0
+New,HP,Victus,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,1629.0
+New,Samsung,Galaxy Book,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,924.98
+New,LG,Gram,Intel Evo Core i7,32,512,SSD,RTX 3050,17.0,No,2360.08
+New,HP,Pavilion,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1409.01
+New,Dell,Vostro,AMD Ryzen 5,8,256,SSD,RTX 3050,16.0,No,829.0
+New,HP,Pavilion,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1629.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4080,17.3,No,3599.0
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4080,17.3,No,2999.01
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,549.0
+New,Asus,VivoBook,Intel Core i7,32,512,SSD,RTX 3050,16.0,No,2089.0
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,13.6,No,1869.0
+New,Dell,Vostro,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,738.55
+New,MSI,Katana,Intel Core i5,16,512,SSD,RTX 3060,15.6,No,1349.0
+New,Acer,Predator,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,2389.0
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,17.3,No,889.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4090,17.3,No,3818.77
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,15.3,No,1829.0
+New,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,1949.01
+New,Primux,Ioxbook,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,338.81
+New,Asus,VivoBook,Intel Pentium,8,128,SSD,RTX 3050,13.3,Yes,776.14
+New,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,979.0
+New,Apple,MacBook Air,Apple M2,16,512,SSD,RTX 3050,13.6,No,1969.01
+New,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3050,17.3,No,1539.0
+New,Asus,Chromebook,Intel Celeron,4,32,eMMC,RTX 3050,14.0,No,299.0
+New,Alurin,Flex Advance,AMD Ryzen 5,8,500,SSD,RTX 3050,15.6,No,459.0
+New,Lenovo,V15,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,322.49
+New,MSI,Summit,Intel Evo Core i7,32,1000,SSD,RTX 3050,13.4,Yes,1899.0
+New,Acer,Extensa,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,413.99
+New,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3060,16.0,No,1929.01
+New,Lenovo,IdeaPad,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,730.97
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1699.01
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 4050,16.0,No,1899.01
+New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4070,16.0,No,2578.38
+New,Medion,Erazer,Intel Core i5,16,1000,SSD,RTX 4050,15.6,No,1119.01
+New,Medion,Erazer,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1629.0
+New,HP,Omen,Intel Core i9,32,1000,SSD,RTX 3070,16.1,No,2399.01
+New,MSI,Summit,Intel Evo Core i7,16,512,SSD,RTX 3050,13.4,Yes,1709.0
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3060,17.3,No,1799.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,729.0
+New,MSI,Raider,Intel Core i9,32,1000,SSD,RTX 4060,16.0,No,2899.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,2059.76
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,2459.01
+New,Asus,TUF,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1889.0
+New,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 4060,16.0,No,2249.0
+New,HP,Victus,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1049.99
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4080,16.0,No,3099.0
+New,Prixton,Flex,Intel Celeron,4,64,SSD,RTX 3050,11.6,Yes,329.95
+New,MSI,Titan,Intel Core i9,128,2000,SSD,RTX 4090,17.3,No,5999.0
+New,Alurin,Go,Intel Pentium,8,128,SSD,RTX 3050,14.1,No,385.0
+New,LG,Gram,Intel Evo Core i7,16,512,SSD,RTX 3050,17.0,No,1799.0
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,Yes,2999.0
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,16.0,Yes,2089.0
+New,Alurin,Flex Advance,Intel Core i7,16,500,SSD,RTX 3050,15.6,No,739.0
+New,HP,Envy,Intel Core i7,16,1000,SSD,RTX 3060,16.0,No,1999.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4070,16.0,No,2749.0
+New,Acer,Swift,AMD Ryzen 7,16,1000,SSD,RTX 3050,14.0,No,1473.01
+New,MSI,Creator,Intel Core i9,32,1000,SSD,RTX 4060,16.0,Yes,2899.0
+New,Samsung,Galaxy Book,Intel Evo Core i5,16,512,SSD,RTX 3050,13.3,Yes,1489.0
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,615.97
+New,Gigabyte,Aero,Intel Core i7,16,1000,SSD,RTX 4050,14.0,No,1969.01
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4070,16.0,Yes,2949.0
+New,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 4060,14.0,No,2349.01
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.0,No,634.25
+New,Asus,ZenBook,Intel Core i7,32,1000,SSD,RTX 3060,15.6,Yes,2799.0
+New,Asus,ROG,AMD Ryzen 9,64,2000,SSD,RTX 4090,16.0,No,5159.0
+New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,17.3,No,2999.0
+New,Microsoft,Surface Go,Intel Pentium,8,128,SSD,RTX 3050,10.5,Yes,599.01
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 4050,15.6,No,1299.01
+New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1889.0
+New,Apple,MacBook Pro,Apple M2,32,1000,SSD,RTX 3050,16.2,No,3799.0
+New,Apple,MacBook Pro,Apple M2,32,1000,SSD,RTX 3050,14.2,No,3379.01
+New,Apple,MacBook Air,Apple M1,8,512,SSD,RTX 3050,13.3,No,1349.0
+Refurbished,HP,EliteBook,Intel Core i5,16,256,SSD,RTX 3050,14.0,No,291.69
+New,Gigabyte,Aero,Intel Core i7,16,1000,SSD,RTX 4070,16.0,No,2309.01
+New,Primux,Ioxbook,Intel Celeron,4,128,SSD,RTX 3050,14.0,No,208.99
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,689.01
+New,Apple,MacBook Pro,Apple M2,8,512,SSD,RTX 3050,13.3,No,1849.0
+New,Asus,VivoBook,AMD Ryzen 5,8,512,SSD,RTX 3050,16.0,No,437.87
+New,Lenovo,V15,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,443.01
+New,Apple,MacBook Pro,Apple M2 Pro,16,1000,SSD,RTX 3050,14.2,No,2729.01
+New,Acer,Aspire,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,819.0
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 4060,16.0,Yes,2649.0
+New,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 4050,14.0,No,1989.01
+New,MSI,Summit,Intel Core i7,16,1000,SSD,RTX 3050,14.0,Yes,1749.82
+New,Microsoft,Surface Laptop,Intel Evo Core i5,8,512,SSD,RTX 3050,13.5,Yes,1419.0
+New,PcCom,Revolt,Intel Core i7,32,500,SSD,RTX 3060,15.6,No,1699.0
+New,Lenovo,V15,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,619.99
+New,MSI,Summit,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,1689.0
+New,HP,255,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,386.05
+New,Prixton,Netbook Pro,Intel Celeron,4,64,eMMC,RTX 3050,14.1,No,299.94
+New,HP,15S,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,416.0
+New,Lenovo,V15,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,529.0
+New,Microsoft,Surface Laptop,Intel Core i5,8,128,SSD,RTX 3050,12.4,Yes,769.0
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4060,14.0,No,2299.0
+New,Asus,ROG,AMD Ryzen 9,16,1000,SSD,RTX 4060,13.4,Yes,1999.0
+New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4080,17.0,No,3699.0
+New,Alurin,Flex Advance,Intel Core i5,8,500,SSD,RTX 3050,15.6,No,600.0
+New,HP,250,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,609.01
+New,HP,Chromebook,AMD Athlon,4,64,eMMC,RTX 3050,14.0,No,419.0
+New,Gigabyte,Aorus,Intel Core i9,16,1000,SSD,RTX 4070,15.6,No,2179.0
+New,Microsoft,Surface Pro,Intel Evo Core i7,16,256,SSD,RTX 3050,13.0,Yes,1859.0
+New,Apple,MacBook Pro,Apple M2 Pro,32,512,SSD,RTX 3050,14.2,No,2719.0
+New,MSI,Modern,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,799.0
+New,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 4060,14.0,No,2159.0
+New,Asus,M515UA,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,683.81
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1699.01
+New,Asus,ROG,Intel Core i9,16,1000,SSD,RTX 4050,13.4,Yes,2099.0
+New,Apple,MacBook Pro,Apple M2 Pro,32,1000,SSD,RTX 3050,14.2,No,2939.01
+New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 4050,16.0,Yes,2099.0
+New,HP,Notebook,Intel Celeron,4,64,eMMC,RTX 3050,14.0,No,329.0
+New,Asus,M515UA,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,402.99
+New,Lenovo,V15,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,461.32
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,256,SSD,RTX 3050,14.0,No,574.0
+New,Asus,ROG,Intel Core i9,32,2000,SSD,RTX 4080,16.0,No,3499.01
+New,Microsoft,Surface Laptop,Intel Evo Core i5,8,512,SSD,RTX 3050,13.5,Yes,1419.0
+New,Microsoft,Surface Pro,Intel Evo Core i5,8,256,SSD,RTX 3050,13.0,Yes,1299.0
+New,LG,Gram,Intel Evo Core i7,16,512,SSD,RTX 3050,17.0,No,1699.0
+New,HP,470,Intel Core i7,16,512,SSD,MX 550,17.3,No,1300.0
+New,Asus,VivoBook,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,372.0
+New,Razer,Blade,Intel Core i9,32,2000,SSD,RTX 4090,16.0,No,4999.01
+New,Asus,ROG,AMD Ryzen 7,32,1000,SSD,RTX 3070,15.6,No,2079.01
+New,Dell,Vostro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,997.79
+New,LG,Gram,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1149.0
+New,Primux,Ioxbook,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,229.0
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,552.33
+New,Apple,MacBook Pro,Apple M2 Pro,16,512,SSD,RTX 3050,16.2,No,2729.01
+New,Microsoft,Surface Pro,Intel Evo Core i5,8,256,SSD,RTX 3050,13.0,Yes,1299.0
+New,Alurin,Go,Intel Pentium,8,256,SSD,RTX 3050,14.1,No,329.91
+New,HP,Spectre,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.5,Yes,1699.01
+New,LG,Gram,Intel Evo Core i7,32,1000,SSD,RTX 3050,15.0,No,1929.01
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,16.0,No,1949.99
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1174.99
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,256,SSD,GTX 1650,15.6,No,834.11
+New,Alurin,Flex,Intel Core i3,8,128,SSD,RTX 3050,14.0,No,399.0
+New,Medion,Akoya,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,529.0
+New,Microsoft,Surface Laptop,AMD Ryzen 7,8,256,SSD,RTX 3050,15.0,Yes,1449.0
+New,Razer,Blade,Intel Core i9,16,1000,SSD,RTX 4060,16.0,No,3099.0
+New,Razer,Blade,Intel Core i9,16,1000,SSD,RTX 4070,16.0,No,3499.01
+New,Alurin,Alurin,AMD Radeon 5,8,256,SSD,RTX 3050,15.6,No,499.0
+New,Alurin,Flex Advance,AMD Ryzen 5,8,500,SSD,RTX 3050,15.6,No,559.0
+New,Razer,Blade,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,3799.99
+New,Asus,ZenBook,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,1259.01
+New,Alurin,Flex Advance,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,440.0
+New,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,15.3,No,1599.0
+New,HP,250,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,398.1
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4060,17.3,No,2099.0
+New,HP,15S,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,454.33
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,494.81
+New,Alurin,Flex Advance,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,399.0
+New,Asus,TUF,Intel Core i5,16,512,SSD,GTX 1650,15.6,No,719.01
+New,Alurin,Alurin,Intel Core i7,8,500,SSD,RTX 3050,15.6,No,869.0
+New,HP,250,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,824.0
+New,Apple,MacBook Pro,Apple M2 Pro,32,1000,SSD,RTX 3050,16.2,No,3499.01
+New,Lenovo,V15,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,495.99
+New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4070,17.0,No,2999.0
+New,Lenovo,ThinkBook,Intel Core i7,16,1000,SSD,GTX 1650,15.6,No,1219.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1395.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,695.0
+New,MSI,Creator,Intel Core i9,64,2000,SSD,RTX 4060,16.0,Yes,3061.31
+New,HP,250,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,453.0
+New,Acer,Chromebook,Intel Celeron,8,128,eMMC,RTX 3050,17.3,No,499.0
+New,Dynabook Toshiba,Satellite Pro,Intel Core i7,8,256,SSD,RTX 3050,15.6,No,699.0
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,393.59
+New,Dell,XPS,Intel Core i5,16,512,SSD,RTX 3050,13.4,No,2063.26
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 4080,17.3,No,2999.01
+New,Lenovo,Legion,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,2689.01
+New,Acer,ConceptD,Intel Core i7,16,512,SSD,GTX 1650,16.0,No,1799.0
+New,Lenovo,V15,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,579.9
+New,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,1799.0
+New,Asus,F515,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,408.0
+New,Acer,Chromebook,Intel Core i7,16,256,SSD,RTX 3050,16.0,No,1139.01
+New,Acer,Nitro,AMD Ryzen 9,16,1000,SSD,RTX 3080,15.6,No,2399.01
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.0,No,1599.0
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,16.0,No,1274.37
+New,Lenovo,Legion,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1553.68
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX A1000,16.0,No,1980.2
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX A1000,16.0,No,1772.43
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 3000,16.0,No,2707.44
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1999.0
+New,Asus,ExpertBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,839.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,650.13
+New,Microsoft,Surface Pro,Intel Evo Core i7,16,512,SSD,RTX 3050,13.0,Yes,2189.0
+New,Microsoft,Surface Laptop,Intel Core i5,16,256,SSD,RTX 3050,14.4,Yes,1699.01
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,800.0
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,675.0
+New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1499.0
+New,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,431.99
+New,HP,ProBook,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,899.99
+New,Asus,E510,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,329.99
+New,Alurin,Go,Intel Pentium,8,256,SSD,RTX 3050,14.1,No,399.0
+New,HP,ProBook,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1312.0
+New,HP,Victus,Intel Core i7,8,512,SSD,RTX 3050,16.1,No,1329.51
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,599.0
+New,Acer,Extensa,Intel Core i5,8,256,SSD,RTX 3050,0.0,No,524.99
+New,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1149.0
+Refurbished,Microsoft,Surface Pro,Intel Core i5,8,256,SSD,RTX 3050,12.3,Yes,1349.0
+New,MSI,Creator,Intel Core i9,64,1000,SSD,RTX 4070,16.0,Yes,3289.01
+Refurbished,MSI,Creator,Intel Core i9,64,2000,SSD,RTX 4070,17.0,Yes,3394.99
+New,HP,250,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,786.14
+New,Asus,VivoBook,AMD Ryzen 7,16,1000,SSD,RTX 3050,15.6,No,1501.55
+New,Apple,MacBook Pro,Apple M2 Pro,16,1000,SSD,RTX 3050,16.2,No,2999.01
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 4060,15.6,No,1499.96
+Refurbished,Dell,Latitude,Intel Core i5,8,128,SSD,RTX 3050,14.0,No,379.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,256,SSD,RTX 3050,14.0,No,575.0
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,1889.0
+New,Lenovo,Yoga,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,979.0
+New,LG,Gram,Intel Evo Core i7,32,512,SSD,RTX 3050,17.0,No,2399.0
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,210.14
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,2459.01
+New,Lenovo,V15,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,509.0
+New,Dynabook Toshiba,Satellite Pro,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,679.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4070,17.3,No,2499.0
+New,Gigabyte,Aorus,Intel Core i5,8,512,SSD,RTX 4060,15.6,No,1086.85
+New,Medion,Beast,Intel Core i9,32,2000,SSD,RTX 4090,17.0,No,3799.0
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1929.01
+Refurbished,Lenovo,Legion,AMD Ryzen 7,16,512,SSD,RTX 3070,15.6,No,1180.29
+New,Alurin,Flex Advance,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,540.0
+New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3060,17.3,No,1699.01
+New,Alurin,Flex,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,429.9
+New,Acer,Aspire,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,385.2
+New,Acer,TravelMate,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,725.0
+New,Acer,Extensa,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,589.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,884.99
+New,HP,Chromebook,Intel Celeron,4,32,SSD,RTX 3050,11.6,Yes,282.57
+New,LG,Gram,Intel Evo Core i7,32,1000,SSD,RTX 3050,14.0,No,1999.0
+New,Acer,Extensa,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,430.99
+New,LG,Gram,Intel Evo Core i7,32,512,SSD,RTX 3050,16.0,No,2349.0
+New,Microsoft,Surface Laptop,Intel Evo Core i7,8,256,SSD,RTX 3050,15.0,Yes,1529.0
+Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,588.0
+New,Dynabook Toshiba,Portégé,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1805.01
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,399.0
+New,Dynabook Toshiba,Tecra,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,899.01
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,856.0
+New,Alurin,Flex,Intel Core i3,8,512,SSD,RTX 3050,14.0,No,529.0
+New,Apple,MacBook Pro,Apple M2 Pro,16,1000,SSD,RTX 3050,14.2,No,2749.0
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,899.01
+New,Apple,MacBook Pro,Apple M2 Pro,16,512,SSD,RTX 3050,16.2,No,2789.0
+New,Thomson,Neo,Intel Celeron,4,64,eMMC,RTX 3050,14.1,No,201.05
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,505.01
+New,Alurin,Flex Advance,AMD Ryzen 5,16,500,SSD,RTX 3050,15.6,No,499.0
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,355.0
+New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1199.0
+New,Acer,ConceptD,Intel Core i7,16,1000,SSD,T 1200,16.0,No,1899.0
+New,Lenovo,V15,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,969.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,2039.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,860.0
+New,Lenovo,ThinkPad,Intel Core i5,16,256,SSD,RTX 3050,14.0,No,869.0
+Refurbished,Acer,Predator,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,1417.19
+Refurbished,MSI,Modern,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,659.44
+New,HP,15S,AMD 3020e,8,256,SSD,RTX 3050,15.6,No,301.01
+Refurbished,HP,Pavilion,AMD Ryzen 7,16,512,SSD,RTX 3050,13.3,No,663.69
+New,Dynabook Toshiba,Tecra,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1637.0
+New,Apple,MacBook Pro,Apple M2,32,1000,SSD,RTX 3050,14.2,No,3399.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,800.0
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,512,SSD,Radeon Pro 5300M,16.0,No,1093.69
+New,Lenovo,V15,Intel Celeron,4,128,SSD,RTX 3050,15.6,No,279.0
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1481.63
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,879.0
+New,LG,Ultra,AMD Ryzen 5,8,512,SSD,RTX 3050,16.0,No,969.0
+New,Lenovo,Yoga,Intel Evo Core i5,8,512,SSD,RTX 3050,14.0,No,979.0
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1199.0
+New,Medion,Beast,Intel Core i9,32,1000,SSD,RTX 4080,17.0,No,3199.01
+New,Medion,Erazer,Intel Core i7,16,1000,SSD,A 730M,16.0,No,1699.0
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,3500.0
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4090,14.0,No,4599.0
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,15.3,No,1829.0
+New,Apple,MacBook Air,Apple M2,8,512,SSD,RTX 3050,15.3,No,1829.0
+New,Microsoft,Surface Laptop,Intel Core i5,16,512,SSD,RTX 3050,14.4,Yes,1899.0
+New,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,4099.0
+New,Razer,Blade,Intel Core i9,32,1000,SSD,RTX 3070,17.3,No,4499.99
+New,Razer,Blade,Intel Core i9,16,1000,SSD,RTX 3070,17.3,No,3899.99
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,1000,SSD,RTX 4050,16.0,No,2999.01
+Refurbished,Dell,Latitude,Intel Core i5,16,256,SSD,RTX 3050,14.0,No,499.0
+Refurbished,Razer,Blade,AMD Ryzen 9,16,1000,SSD,RTX 3070,14.0,No,2899.99
+New,Lenovo,IdeaPad,Intel Core i3,8,256,SSD,RTX 3050,13.3,Yes,699.0
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,755.0
+New,Asus,ExpertBook,Intel Core i5,8,1000,SSD,RTX 3050,15.6,No,789.0
+New,Lenovo,Chromebook,Intel Celeron,4,128,SSD,RTX 3050,11.6,Yes,451.0
+New,HP,250,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,569.99
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,789.0
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,909.99
+New,Denver,Electronics,Intel Celeron,4,256,SSD,RTX 3050,14.0,No,329.95
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,730.01
+New,Microsoft,Surface Pro,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.0,Yes,2529.0
+New,Asus,ROG,Intel Core i9,16,1000,SSD,RTX 3050,13.4,Yes,2420.65
+New,Samsung,Galaxy Book,Intel Evo Core i9,32,1000,SSD,RTX 4070,16.0,No,3699.01
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1333.57
+New,HP,15S,Intel Core i5,8,1000,SSD,RTX 3050,15.6,No,749.0
+New,Dynabook Toshiba,Satellite Pro,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,739.0
+New,HP,ProBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1041.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,799.0
+New,LG,Gram,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,No,1699.0
+New,Asus,VivoBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,454.23
+New,Microsoft,Surface Pro,Intel Core i5,8,256,SSD,RTX 3050,12.3,Yes,1143.16
+New,Apple,MacBook Pro,Apple M2 Pro,32,1000,SSD,RTX 3050,14.2,No,3279.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,502.0
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,416.87
+New,HP,Chromebook,Intel Celeron,4,32,SSD,RTX 3050,11.6,No,230.14
+New,Acer,Extensa,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,379.01
+New,Microsoft,Surface Laptop,Intel Core i7,16,512,SSD,RTX 3050,14.4,Yes,2199.01
+New,Alurin,Flex Advance,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,549.0
+New,Medion,Beast,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,2599.0
+New,Acer,Aspire,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,1249.01
+New,MSI,Modern,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,799.0
+New,Thomson,Neo,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,399.0
+New,Alurin,Flex Advance,Intel Core i5,16,500,SSD,RTX 3050,15.6,No,539.01
+New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1199.0
+New,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,609.01
+New,Asus,VivoBook,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,449.9
+New,Acer,Aspire,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,529.0
+New,HP,255,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,495.33
+New,Apple,MacBook Pro,Apple M2 Pro,32,512,SSD,RTX 3050,16.2,No,3279.0
+New,HP,250,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,880.53
+New,Acer,Extensa,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,670.67
+New,HP,14S,AMD Athlon,8,512,SSD,RTX 3050,14.0,No,424.0
+New,PcCom,Revolt,Intel Core i5,16,500,SSD,RTX 3050,15.6,No,1329.9
+New,PcCom,Revolt,Intel Core i7,16,500,SSD,RTX 3050,15.6,No,1479.9
+New,PcCom,Revolt,Intel Core i5,16,500,SSD,RTX 4050,15.6,No,1349.9
+New,PcCom,Revolt,Intel Core i5,16,500,SSD,RTX 4050,15.6,No,1479.9
+New,PcCom,Revolt,Intel Core i5,16,500,SSD,RTX 4060,15.6,No,1679.9
+New,PcCom,Revolt,Intel Core i7,16,500,SSD,RTX 4060,15.6,No,1699.9
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,Yes,2079.0
+New,Alurin,Flex Advance,Intel Core i5,16,500,SSD,RTX 3050,15.6,No,639.0
+New,Asus,VivoBook,Intel Celeron,4,128,eMMC,RTX 3050,14.0,Yes,345.0
+New,Lenovo,V15,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,719.0
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,15.6,Yes,1854.36
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,628.04
+New,HP,ProBook,AMD Ryzen 7,32,1000,SSD,RTX 3050,15.6,No,999.0
+New,LG,Gram,Intel Core i7,16,512,SSD,RTX 3050,17.0,No,1859.01
+New,PcCom,Revolt,Intel Core i7,16,500,SSD,RTX 4060,15.6,No,1849.9
+New,Medion,Classmate Pro,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,429.0
+New,LG,Gram,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,1899.01
+New,Lenovo,Legion,Intel Core i9,32,1000,SSD,RTX 4090,16.0,No,4199.0
+New,Lenovo,V15,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,465.0
+New,PcCom,Revolt,Intel Core i5,16,500,SSD,RTX 4060,15.6,No,1549.9
+New,HP,15S,AMD 3020e,8,256,SSD,RTX 3050,15.6,No,366.0
+New,Acer,Aspire,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,359.01
+New,Dell,Vostro,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,743.0
+New,HP,15S,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,323.45
+New,MSI,Prestige,Intel Core i7,32,1000,SSD,GTX 1650,15.6,No,1999.0
+New,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1449.9
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,MX 550,15.6,No,1405.19
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,849.0
+New,Asus,ROG,Intel Core i9,64,1000,SSD,RTX 3080,17.3,No,4299.01
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,867.53
+New,Microsoft,Surface Laptop,AMD Ryzen 5,8,256,SSD,RTX 3050,13.5,Yes,1129.0
+New,HP,17,Intel Celeron,4,128,SSD,RTX 3050,17.3,No,391.0
+New,Acer,Aspire,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,809.01
+New,Acer,ConceptD,Intel Core i7,16,1000,SSD,T 1200,16.0,No,1471.61
+New,Dell,XPS,Intel Core i7,16,512,SSD,RTX 3050,13.4,Yes,2139.73
+New,HP,250,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1057.0
+New,HP,ProBook,AMD Ryzen 5,8,256,SSD,RTX 3050,13.3,No,1069.0
+New,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 4070,17.3,No,2303.1
+New,Microsoft,Surface Laptop,AMD Ryzen 7,8,512,SSD,RTX 3050,15.0,Yes,1649.0
+New,Microsoft,Surface Laptop,Intel Evo Core i7,8,512,SSD,RTX 3050,15.0,Yes,1749.0
+New,Microsoft,Surface Laptop,Intel Core i7,32,2000,SSD,RTX 3050,14.4,Yes,3199.0
+New,PcCom,Revolt,Intel Core i7,16,500,SSD,RTX 3050,15.6,No,1349.9
+New,Acer,Predator,Intel Core i7,32,1000,SSD,RTX 3080,16.0,No,2739.0
+New,HP,Zbook,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1627.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1515.0
+New,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1599.9
+New,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,809.01
+New,Acer,Extensa,Intel Core i5,8,1000,SSD,RTX 3050,15.6,No,583.85
+New,Primux,Ioxbook,Intel Celeron,4,128,SSD,RTX 3050,15.6,No,272.58
+New,Razer,Blade,AMD Ryzen 9,16,1000,SSD,RTX 3080,14.0,No,4105.45
+New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1056.0
+New,HP,255,AMD Ryzen 3,8,1000,SSD,RTX 3050,15.6,No,471.0
+Refurbished,Lenovo,ThinkPad,Intel Core i3,8,256,SSD,RTX 3050,13.3,No,419.0
+New,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1949.9
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,800.0
+New,Asus,ZenBook,AMD Ryzen 7,16,1000,SSD,RTX 3050,14.0,No,1377.62
+New,HP,ProBook,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1214.49
+New,Acer,TravelMate,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,925.0
+New,Dell,XPS,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,2319.0
+New,Alurin,Flex Advance,Intel Core i5,8,500,SSD,RTX 3050,14.0,No,590.0
+New,LG,Gram,Intel Core i7,32,512,SSD,RTX 2050,17.0,No,2209.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,635.0
+New,Acer,TravelMate,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,770.56
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,448.99
+New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1196.97
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,595.9
+New,HP,15S,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,850.99
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,239.0
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,512,SSD,Radeon Pro RX 560X,15.4,No,977.08
+New,Asus,VivoBook,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,398.22
+New,Asus,TUF,AMD Ryzen 9,16,1000,SSD,RTX 4070,15.6,No,2017.87
+New,Asus,BR,Intel Celeron,4,128,SSD,RTX 3050,11.6,Yes,495.33
+New,Asus,ROG,AMD Ryzen 9,16,1000,SSD,RTX 3060,16.0,Yes,2773.31
+Refurbished,MSI,Vector,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3499.0
+Refurbished,Alurin,Flex Advance,Intel Core i5,16,500,SSD,RTX 3050,14.0,No,530.0
+New,Asus,ROG,Intel Core i9,16,1000,SSD,RTX 4060,16.0,Yes,2599.01
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,1157.12
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX A5500,16.0,Yes,4399.0
+New,Lenovo,V15,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,359.9
+New,Asus,VivoBook,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,1449.5
+New,Acer,ConceptD,Intel Core i7,16,1000,SSD,T 1200,15.6,Yes,2206.1
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4060,15.6,No,2184.41
+New,Asus,E510,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,285.0
+Refurbished,Lenovo,250,Intel Core i5,8,256,SSD,RTX 3050,12.5,No,358.99
+New,Asus,F515,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,391.6
+New,Dynabook Toshiba,Satellite Pro,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,765.75
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,635.01
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1433.0
+Refurbished,Microsoft,Surface Pro,Intel Core i5,16,256,SSD,RTX 3050,12.3,No,1111.35
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,635.0
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,883.19
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,Yes,555.0
+New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,1473.83
+New,Medion,Akoya,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,727.49
+New,Dell,Vostro,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1064.0
+Refurbished,LG,Gram,Intel Core i7,16,1000,SSD,RTX 3050,16.0,Yes,1999.0
+New,Microsoft,Surface Pro,Intel Evo Core i5,8,256,SSD,RTX 3050,13.0,Yes,1403.0
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,128,SSD,RTX 3050,13.0,No,604.0
+New,Asus,VivoBook,Intel Core i5,12,512,SSD,RTX 3050,16.0,No,832.01
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1599.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,800.0
+New,Asus,ZenBook,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,819.0
+New,HP,Envy,Intel Core i7,16,512,SSD,RTX 3050,17.3,No,1453.6
+New,Dell,Latitude,Intel Evo Core i7,16,512,SSD,RTX 3050,13.0,Yes,1620.92
+New,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,552.99
+New,HP,250,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,549.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,518.63
+New,HP,15S,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,465.26
+New,HP,470,Intel Core i5,16,512,SSD,MX 550,17.3,No,1212.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,799.0
+New,Asus,TUF,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,769.0
+New,Acer,Swift,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.5,No,1347.18
+Refurbished,Apple,MacBook Pro,Intel Core i9,16,1000,SSD,Radeon Pro 5500M,16.0,No,1899.0
+Refurbished,Lenovo,ThinkPad,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,818.0
+New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4050,16.0,No,2102.18
+New,PcCom,Revolt,Intel Core i7,32,1000,SSD,RTX 4060,15.6,No,1899.9
+New,Acer,TravelMate,Intel Pentium,8,256,SSD,RTX 3050,14.0,No,474.99
+New,Medion,Akoya,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,327.51
+New,Asus,ROG,AMD Ryzen 7,32,1000,SSD,RTX 3070,17.3,No,2649.44
+New,Asus,ZenBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,846.31
+New,HP,15S,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,414.84
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,399.37
+New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1069.0
+New,Lenovo,300w,AMD 3015e,4,128,SSD,RTX 3050,11.6,Yes,461.48
+New,Apple,MacBook Pro,Apple M2 Pro,16,1000,SSD,RTX 3050,16.2,No,2999.01
+New,HP,15S,AMD Ryzen 7,12,512,SSD,RTX 3050,15.6,No,613.2
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,16.0,No,599.99
+New,HP,Victus,AMD Ryzen 7,8,512,SSD,Radeon Pro 5500M,16.1,No,864.23
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1199.0
+New,Microsoft,Surface Pro,Intel Core i5,8,256,SSD,RTX 3050,12.3,No,1349.0
+New,HP,15S,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,695.5
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 4070,14.0,No,2699.0
+New,Asus,M515,AMD Ryzen 5,12,512,SSD,RTX 3050,15.6,No,707.51
+New,LG,Gram,Intel Evo Core i7,32,512,SSD,RTX 3050,15.0,No,2099.0
+Refurbished,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1749.0
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,764.34
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,999.0
+New,HP,15S,AMD Ryzen 7,12,512,SSD,RTX 3050,15.6,No,641.0
+New,Medion,Akoya,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,563.62
+New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 3050,13.4,Yes,1899.0
+New,Thomson,Neo,Intel Celeron,4,64,eMMC,RTX 3050,14.1,No,230.83
+New,PcCom,Revolt,Intel Core i5,16,500,SSD,RTX 3050,15.6,No,1199.9
+New,PcCom,Revolt,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,1800.01
+New,LG,Gram,Intel Evo Core i7,32,1000,SSD,RTX 3050,17.0,No,2199.0
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,479.61
+New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1074.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,869.0
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1282.0
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,630.72
+New,MSI,Modern,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,720.25
+New,HP,250,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,549.0
+Refurbished,Apple,MacBook Air,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1498.0
+New,LG,Ultra,AMD Ryzen 7,16,512,SSD,RTX 3050,16.0,No,1299.0
+New,Lenovo,Yoga,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,Yes,1671.0
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,568.82
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,556.59
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,844.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4090,17.3,No,3258.19
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1069.0
+New,Lenovo,V15,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,565.01
+New,HP,Omen,AMD Ryzen 7,16,512,SSD,RTX 3070,16.1,No,1580.62
+New,Lenovo,IdeaPad,Intel Core i5,8,256,SSD,RTX 3050,13.3,Yes,779.01
+New,Lenovo,Yoga,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,1979.0
+New,Lenovo,Yoga,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,2099.0
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1049.0
+New,Acer,ConceptD,Intel Core i7,16,1000,SSD,T 1200,14.0,No,1899.0
+New,Acer,Nitro,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,1559.0
+New,HP,Chromebook,AMD Athlon,4,64,eMMC,RTX 3050,14.0,No,399.0
+New,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2099.0
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,Yes,2079.0
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2800.0
+New,Razer,Blade,Intel Core i9,16,1000,SSD,RTX 3070,15.6,No,3699.0
+New,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,4299.99
+New,Samsung,Galaxy Book,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,849.01
+New,Samsung,Galaxy Book,Intel Evo Core i5,16,512,SSD,RTX 3050,13.3,No,1349.0
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,16.0,No,2050.99
+New,HP,Zbook,Intel Core i7,32,1000,SSD,T 500,16.0,No,2149.4
+New,Lenovo,Yoga,Intel Evo Core i7,16,512,SSD,RTX 3050,14.5,No,1561.0
+New,Acer,ConceptD,Intel Core i7,32,1000,SSD,RTX 3080,15.6,Yes,3691.0
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,679.95
+New,HP,Zbook,Intel Core i7,32,512,SSD,RTX A1000,16.0,No,2866.16
+Refurbished,Apple,MacBook Air,Intel Core i5,4,128,SSD,RTX 3050,13.3,No,299.0
+Refurbished,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,973.89
+New,Microsoft,Surface Pro,Intel Evo Core i5,16,256,SSD,RTX 3050,13.0,Yes,1778.0
+New,Samsung,Galaxy Book,Intel Evo Core i5,16,512,SSD,RTX 3050,13.3,Yes,1561.0
+Refurbished,Apple,MacBook Air,Intel Core i5,8,128,SSD,RTX 3050,13.3,No,331.75
+New,Razer,Blade,Intel Core i9,32,1000,SSD,RTX 4080,16.0,No,4199.91
+New,HP,15S,Intel Celeron,8,512,SSD,RTX 3050,15.6,No,392.0
+New,Samsung,Galaxy Book,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1599.0
+New,Asus,ExpertBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,445.99
+New,Deep Gaming,Nubian,Intel Core i7,32,1000,SSD,RTX 3050,17.3,No,1549.01
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,831.12
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,869.14
+New,Lenovo,V15,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,773.6
+New,MSI,Katana,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,875.06
+New,MSI,Pulse,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,2217.07
+New,Dell,Vostro,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1092.52
+New,Asus,F515,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,550.6
+New,HP,15S,AMD Athlon,8,256,SSD,RTX 3050,15.6,No,391.02
+New,HP,15S,AMD Athlon,8,512,SSD,RTX 3050,15.6,No,406.0
+New,HP,15S,AMD 3020e,4,128,SSD,RTX 3050,15.6,No,381.76
+New,HP,15S,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,494.81
+New,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,750.73
+New,HP,Victus,AMD Ryzen 5,16,512,SSD,RTX 3050,16.1,No,1120.0
+New,Lenovo,ThinkPad,Intel Core i5,16,256,SSD,RTX 3050,15.6,No,969.0
+Refurbished,Apple,MacBook Air,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,895.0
+New,MSI,Raider,Intel Core i9,64,2000,SSD,RTX 4090,17.0,No,5199.0
+New,Medion,Classmate Pro,Intel Core i3,4,128,SSD,RTX 3050,14.0,No,273.61
+New,Lenovo,V15,AMD Ryzen 7,8,256,SSD,RTX 3050,15.6,No,628.99
+New,HP,Victus,AMD Ryzen 7,8,512,SSD,Radeon Pro 5500M,16.1,No,982.0
+New,Acer,Aspire,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,474.86
+Refurbished,Asus,ZenBook,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,678.39
+New,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,697.36
+Refurbished,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,Yes,799.0
+New,Asus,VivoBook,Intel Celeron,4,256,SSD,RTX 3050,14.0,Yes,398.01
+New,Asus,Chromebook,Intel Celeron,4,32,eMMC,RTX 3050,11.6,No,239.25
+New,HP,15S,AMD Athlon,8,256,SSD,RTX 3050,15.6,No,384.27
+New,HP,255,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,556.22
+New,Lenovo,100e,Intel Celeron,4,128,SSD,RTX 3050,11.6,No,350.0
+New,Lenovo,ThinkPad,Intel Core i7,32,1000,SSD,T 550,16.0,No,2575.0
+New,Lenovo,ThinkPad,Intel Core i7,32,1000,SSD,RTX A3000,17.3,No,3496.86
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4050,17.3,No,1496.56
+New,Microsoft,Surface Go,Intel Core i3,8,128,SSD,RTX 3050,10.5,Yes,853.59
+New,Vant,Moove,Intel Core i5,16,500,SSD,RTX 3050,14.0,No,645.99
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1649.0
+New,Asus,F515,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,650.36
+New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1310.61
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,950.53
+Refurbished,Asus,ROG,Intel Core i7,32,1000,SSD,RTX 3070,16.0,No,2599.0
+New,HP,250,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,357.64
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,634.05
+New,HP,EliteBook,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1735.35
+New,Alurin,Flex Advance,Intel Core i5,16,500,SSD,RTX 3050,14.0,No,629.01
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,711.95
+Refurbished,Apple,MacBook Air,Intel Core i5,8,128,SSD,RTX 3050,13.0,No,391.17
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1058.0
+New,MSI,Creator,Intel Core i9,32,1000,SSD,RTX 4070,17.0,Yes,3175.35
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4050,17.3,No,1496.56
+New,Lenovo,IdeaPad,Intel Celeron,4,64,eMMC,RTX 3050,10.1,Yes,324.0
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,Yes,2310.0
+New,Microsoft,Surface Laptop,Intel Core i7,32,1000,SSD,RTX 3050,14.4,Yes,2799.0
+New,HP,15S,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,470.44
+New,Lenovo,Legion,Intel Core i9,32,1000,SSD,RTX 4080,16.0,No,4580.73
+New,Lenovo,V14,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,484.5
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,625.0
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,812.61
+New,Asus,ProArt,Intel Core i7,32,1000,SSD,RTX A3000,16.0,No,2846.0
+New,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,1849.0
+New,Dell,Latitude,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1071.49
+Refurbished,Dell,Latitude,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,699.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,T 2000,15.6,No,1670.01
+New,Asus,VivoBook,Intel Core i5,8,256,SSD,RTX 3050,16.0,No,469.9
+New,Acer,Nitro,Intel Core i9,16,512,SSD,RTX 3060,17.3,No,1495.69
+New,Alurin,Go,Intel Celeron,8,256,SSD,RTX 3050,14.0,No,339.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3070,15.6,No,1600.0
+New,HP,15S,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,687.64
+New,LG,Gram,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,No,2175.83
+New,Lenovo,ThinkPad,AMD Ryzen 5,8,256,SSD,RTX 3050,13.3,No,799.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,Yes,1199.0
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,999.0
+New,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,391.41
+New,HP,255,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,498.0
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,855.39
+New,Lenovo,Legion,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1830.0
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1028.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,T 600,15.6,No,2260.99
+New,Lenovo,Yoga,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,Yes,1438.0
+New,Prixton,Netbook Pro,Intel Celeron,4,128,SSD,RTX 3050,15.6,No,246.95
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,759.2
+New,Asus,ExpertBook,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,511.13
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,16.0,No,500.0
+New,Acer,Extensa,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,439.0
+Refurbished,Dell,Vostro,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,529.99
+New,MSI,Vector,Intel Core i7,32,1000,SSD,RTX 4070,17.3,No,2660.55
+New,Lenovo,V15,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,810.2
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1008.37
+New,HP,15S,Intel Core i5,8,1000,SSD,RTX 3050,15.6,No,715.0
+New,Asus,ZenBook,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,755.48
+New,Dell,Vostro,Intel Evo Core i7,16,512,SSD,RTX 3050,13.3,No,1216.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,T 1000,15.6,No,1857.0
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,16,1000,SSD,RTX 3050,14.2,No,2749.0
+New,Asus,Chromebook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1143.53
+New,Asus,F515,Intel Core i5,12,512,SSD,RTX 3050,15.6,No,824.78
+New,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 4060,15.6,No,1335.01
+Refurbished,Dell,Vostro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,932.15
+New,HP,15S,Intel Celeron,4,128,SSD,RTX 3050,15.6,No,395.4
+New,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,529.0
+New,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1375.3
+New,Lenovo,100w,AMD 3015e,4,128,eMMC,RTX 3050,11.6,No,397.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,17.3,No,1136.94
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1871.6
+New,Medion,Akoya,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,399.99
+New,Primux,Ioxbook,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,599.41
+New,HP,255,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,595.01
+New,Lenovo,IdeaPad,Qualcomm Snapdragon 7,8,128,eMMC,RTX 3050,10.95,Yes,531.0
+New,Lenovo,V15,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,709.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3070,16.0,Yes,3299.0
+Refurbished,Apple,MacBook Pro,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1302.54
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,512,SSD,Radeon Pro 5300M,16.0,No,1093.69
+New,Lenovo,Legion,Intel Core i7,32,1000,SSD,RTX 4060,16.0,No,2199.01
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,811.68
+New,Asus,VivoBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,639.0
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1266.49
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,536.48
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,552.0
+New,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1799.9
+Refurbished,Apple,MacBook Pro,Intel Core i9,32,2000,SSD,Radeon Pro 5500M,16.0,No,2755.0
+New,HP,Pavilion,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,671.01
+Refurbished,Microsoft,Surface Pro,Intel Core i5,8,256,SSD,RTX 3050,12.3,No,866.0
+New,Samsung,Chromebook,Intel Celeron,4,32,eMMC,RTX 3050,11.6,No,365.9
+New,Acer,Extensa,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,494.35
+New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1912.01
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,17.3,No,862.19
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,512,SSD,RTX 3050,13.0,No,856.08
+New,HP,15S,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,478.26
+New,HP,15S,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,405.39
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,734.64
+New,HP,255,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,507.53
+New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1288.19
+Refurbished,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1099.0
+New,Lenovo,V15,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,903.3
+New,Microsoft,Surface Pro,Intel Evo Core i5,8,256,SSD,RTX 3050,13.0,Yes,1293.93
+Refurbished,Apple,MacBook Air,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,655.76
+Refurbished,Apple,MacBook Air,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,884.99
+Refurbished,Apple,MacBook Pro,Apple M1,8,256,SSD,RTX 3050,13.3,No,1029.76
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,413.0
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1334.21
+New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1233.38
+New,Lenovo,V17,Intel Core i5,16,512,SSD,RTX 3050,17.3,No,999.62
+New,Samsung,Chromebook,Intel Celeron,4,64,eMMC,RTX 3050,14.0,No,369.27
+New,Asus,ROG,AMD Ryzen 9,16,1000,SSD,RTX 4060,17.3,No,2203.07
+Refurbished,Asus,ROG,AMD Ryzen 9,16,1000,SSD,RTX 3050,15.6,No,1248.59
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,759.2
+New,Lenovo,ThinkPad,Intel Core i7,32,1000,SSD,T 550,14.0,No,2539.0
+Refurbished,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,17.3,No,713.28
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,530.19
+New,HP,Victus,AMD Ryzen 5,8,512,SSD,GTX 1650,16.1,No,845.48
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1927.84
+New,Asus,F415EA,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,471.63
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,527.0
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1032.38
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,749.0
+New,Lenovo,V15,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,439.0
+New,Lenovo,V15,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,930.24
+Refurbished,MSI,Katana,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1899.0
+New,Asus,ExpertBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,693.0
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1095.0
+New,Asus,VivoBook,Intel Pentium,8,128,SSD,RTX 3050,13.3,Yes,749.99
+New,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,769.58
+New,Acer,Extensa,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,531.8
+New,Acer,Extensa,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,529.9
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,757.0
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1069.0
+New,MSI,Raider,Intel Core i9,32,2000,SSD,RTX 4080,17.0,No,7150.47
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,Yes,620.0
+New,Lenovo,LOQ,Intel Core i5,16,512,SSD,RTX 4060,15.6,No,1498.33
+New,Acer,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,14.0,No,374.0
+Refurbished,Asus,TUF,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,949.0
+Refurbished,Apple,Macbook,Intel Core M3,8,256,SSD,RTX 3050,12.0,No,553.58
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,912.0
+New,Dell,Vostro,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,961.6
+Refurbished,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,849.0
+New,Asus,ZenBook,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,1299.0
+Refurbished,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,799.0
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,17.3,No,912.0
+New,HP,Pavilion,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,959.93
+New,HP,Pavilion,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,1267.58
+New,Asus,ZenBook,Intel Evo Core i7,16,512,SSD,RTX 3050,13.3,No,1016.0
+New,Dell,Vostro,Intel Evo Core i5,16,512,SSD,RTX 3050,13.3,No,1020.24
+Refurbished,Asus,BR,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,699.0
+Refurbished,Acer,Aspire,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,586.54
+New,Acer,Extensa,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,709.65
+Refurbished,Acer,Aspire,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,340.24
+Refurbished,Asus,ROG,AMD Ryzen 9,16,1000,SSD,GTX 1660,14.0,No,1277.64
+Refurbished,Dynabook Toshiba,Tecra,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,959.0
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 3070,17.0,Yes,3099.0
+Refurbished,MSI,Pulse,Intel Core i9,32,1000,SSD,RTX 3060,17.3,No,1999.0
+Refurbished,Asus,ROG,Intel Core i9,16,1000,SSD,RTX 3050,13.4,Yes,1899.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1299.0
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 4060,15.6,No,1409.0
+Refurbished,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,608.64
+Refurbished,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1299.0
+Refurbished,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,1498.14
+Refurbished,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3060,16.0,No,1106.09
+Refurbished,Apple,MacBook Air,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,765.33
+Refurbished,Apple,Macbook,Intel Core M3,8,256,SSD,RTX 3050,12.0,No,553.58
+Refurbished,Apple,Macbook,Intel Core i5,8,512,SSD,RTX 3050,12.0,No,684.65
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,16,1000,SSD,RTX 3050,14.2,No,2749.0
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.0,No,815.75
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,256,SSD,RTX 3050,15.4,No,1118.25
+Refurbished,Apple,MacBook Pro,Intel Core i9,16,1000,SSD,Radeon Pro 5500M,16.0,No,1924.9
+Refurbished,Asus,TUF,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,905.84
+Refurbished,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,Yes,1299.0
+Refurbished,Asus,ZenBook,Intel Evo Core i7,16,512,SSD,RTX 3050,13.9,Yes,1599.0
+Refurbished,HP,250,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,566.58
+Refurbished,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1329.2
+Refurbished,HP,Omen,AMD Ryzen 7,16,512,SSD,Radeon RX 6600M,16.1,No,634.34
+Refurbished,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1447.64
+Refurbished,HP,ProBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1420.98
+Refurbished,HP,ProBook,Intel Core i5,4,500,SSD,RTX 3050,14.0,No,370.01
+Refurbished,HP,Victus,AMD Ryzen 7,8,512,SSD,RTX 3050,16.1,No,829.19
+Refurbished,LG,Gram,Intel Evo Core i7,32,2000,SSD,RTX 3050,16.0,No,1882.19
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1339.45
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX A5500,17.0,Yes,4499.0
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,1599.0
+Refurbished,MSI,Modern,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,807.78
+Refurbished,MSI,Prestige,Intel Core i7,16,1000,SSD,GTX 1650,14.0,No,1649.0
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1399.0
+Refurbished,MSI,Raider,Intel Core i9,32,1000,SSD,RTX 3070,15.6,No,3299.0
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,1322.09
+Refurbished,Razer,Blade,Intel Core i9,32,1000,SSD,RTX 3080,15.6,No,4399.99
+Refurbished,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,4099.99
+Refurbished,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,15.6,Yes,1699.0
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,16.0,No,2099.0
+New,Asus,F515,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,720.92
+New,Lenovo,V15,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,810.81
+New,Microsoft,Surface Pro,Intel Core i7,32,1000,SSD,RTX 3050,12.3,Yes,2014.58
+Refurbished,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,729.0
+Refurbished,Asus,F415EA,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,579.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3050,14.0,No,2199.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,2199.0
+Refurbished,Asus,VivoBook,Intel Pentium,4,128,SSD,RTX 3050,13.3,Yes,561.1
+Refurbished,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,899.0
+Refurbished,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,477.6
+New,Acer,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,14.0,No,346.99
+Refurbished,Acer,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,14.0,No,359.0
+Refurbished,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3080,15.6,No,1999.0
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,128,SSD,RTX 3050,13.0,No,604.0
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,512,SSD,RTX 3050,15.0,No,987.15
+Refurbished,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,15.6,No,399.0
+Refurbished,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,849.0
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1125.75
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,699.0
+Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,799.0
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,2399.0
+Refurbished,Gigabyte,U4,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,799.0
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,660.99
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,760.99
+Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1255.73
+Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1654.05
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,1395.03
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,490.0
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,550.01
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1901.48
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,Yes,877.63
+Refurbished,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,794.99
+New,Lenovo,V15,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,411.0
+Refurbished,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3050,17.3,No,1599.0
+Refurbished,MSI,Prestige,Intel Core i7,16,1000,SSD,MX 330,14.0,No,1278.99
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1399.0
+Refurbished,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1375.14
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3799.0
+New,Medion,Deputy,Intel Core i5,8,512,SSD,GTX 1660,15.6,No,1029.0
+Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,3299.99
+New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,RTX 3050,16.0,Yes,2198.99
+New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,3456.44
+New,Asus,ROG,Intel Core i9,64,2000,SSD,RTX 4090,16.0,No,5758.14
+New,Asus,ROG,AMD Radeon 9,32,1000,SSD,RTX 4080,17.3,No,4753.32
+New,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3050,14.0,No,1730.15
+New,HP,15S,AMD Ryzen 5,12,256,SSD,RTX 3050,15.6,No,655.34
+New,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1887.39
+New,HP,Victus,Intel Core i5,8,512,SSD,RTX 3050,16.1,No,1438.68
+New,HP,250,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1078.0
+New,Asus,Chromebook,Intel Celeron,4,32,SSD,RTX 3050,11.6,No,304.82
+New,Asus,Chromebook,Intel Celeron,4,32,eMMC,RTX 3050,11.6,Yes,398.4
+New,Asus,Chromebook,Intel Celeron,8,32,eMMC,RTX 3050,15.6,No,466.0
+New,Asus,Chromebook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,777.0
+New,Asus,Chromebook,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,918.0
+New,Asus,E510,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,364.16
+New,Asus,ExpertBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,901.99
+New,Asus,ExpertBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,545.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1259.0
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,1238.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX A2000,16.0,Yes,2499.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,2409.49
+New,Asus,ExpertBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,Yes,1703.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,1902.0
+New,Asus,ExpertBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,937.54
+New,Asus,ExpertBook,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1759.0
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,544.58
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,729.78
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,460.63
+New,Asus,F415EA,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,457.07
+New,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,613.91
+New,Asus,F515,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,570.43
+New,Asus,F515,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,424.96
+New,Asus,F515,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,942.08
+New,Asus,M515,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,595.72
+New,Asus,BR,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,609.15
+New,Asus,P1511,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,840.24
+New,Asus,P1511,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,853.63
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3050,13.4,Yes,3943.37
+New,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3050,13.4,Yes,2086.72
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3050,13.4,Yes,3834.15
+New,Asus,ROG,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1036.46
+New,Asus,ROG,AMD Ryzen 7,16,512,SSD,RTX 3060,15.6,No,1411.19
+New,Asus,ROG,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,909.99
+New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3070,15.6,No,2535.45
+New,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3060,17.3,No,1455.4
+New,Asus,ROG,AMD Radeon 9,32,2000,SSD,RTX 4090,17.3,No,5630.9
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 4050,15.6,No,1175.01
+New,Asus,TUF,AMD Ryzen 7,8,512,SSD,RTX 3060,15.6,No,1122.26
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 2050,15.6,No,1106.48
+New,Asus,TUF,Intel Core i5,16,512,SSD,RTX 2050,15.6,No,809.9
+New,Asus,TUF,Intel Core i7,16,512,SSD,RTX 4050,15.6,No,1265.01
+New,Asus,TUF,Intel Core i5,8,512,SSD,RTX 2050,15.6,No,946.7
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,389.0
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,804.7
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,648.97
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,698.44
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,666.37
+New,Asus,VivoBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,568.19
+New,Asus,VivoBook,Intel Celeron,4,128,eMMC,RTX 3050,14.0,Yes,557.73
+New,Asus,VivoBook,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,1016.0
+New,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1745.11
+New,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1212.25
+New,Asus,VivoBook,AMD Ryzen 3,8,256,SSD,610 M,15.6,No,563.23
+New,Asus,VivoBook,Intel Core i5,8,512,SSD,MX 330,15.6,No,867.0
+New,Asus,VivoBook,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1035.84
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,955.0
+New,Asus,ZenBook,Intel Evo Core i5,16,512,SSD,RTX 3050,14.0,No,1205.99
+New,Asus,ZenBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,959.91
+New,Asus,ZenBook,AMD Ryzen 5,16,512,SSD,RTX 3050,14.0,No,868.74
+New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1078.65
+New,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,Yes,1238.18
+New,Acer,Aspire,Intel Celeron,8,128,SSD,RTX 3050,15.6,No,486.0
+New,Acer,Aspire,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,706.2
+New,Acer,Aspire,Intel Core i3,8,512,SSD,RTX 3050,17.3,No,707.69
+New,Acer,Aspire,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,854.93
+New,Acer,Chromebook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,698.0
+New,Acer,Chromebook,Intel Core i3,8,128,eMMC,RTX 3050,13.5,No,792.55
+New,Acer,Chromebook,Qualcomm Snapdragon 7,8,64,eMMC,RTX 3050,13.3,Yes,602.66
+New,Acer,Chromebook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,999.0
+New,Acer,ConceptD,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,1121.0
+New,Acer,ConceptD,Intel Core i5,8,512,SSD,GTX 1650,15.6,No,1349.0
+New,Acer,ConceptD,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,2461.21
+New,Acer,ConceptD,Intel Core i7,16,1000,SSD,T 1200,14.0,Yes,2516.82
+New,Acer,ConceptD,Intel Core i7,16,1000,SSD,T 1200,14.0,No,2119.0
+New,Acer,Enduro,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,3442.0
+New,Acer,Extensa,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,371.0
+New,Acer,Extensa,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,491.13
+New,Acer,Extensa,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,473.0
+New,Acer,Extensa,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,479.0
+New,Acer,Extensa,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,616.33
+New,Acer,Extensa,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,666.44
+New,Acer,Extensa,Intel Core i5,8,256,SSD,MX 330,15.6,No,689.08
+New,Acer,Extensa,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,481.6
+New,Acer,Extensa,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,541.55
+New,Acer,TravelMate,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,803.61
+New,Acer,TravelMate,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,709.81
+New,Acer,TravelMate,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,789.84
+New,Acer,TravelMate,Intel Core i7,8,512,SSD,RTX 3050,14.0,No,714.29
+New,Acer,TravelMate,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,691.97
+New,Acer,TravelMate,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,547.19
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3080,17.3,No,2052.74
+New,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 3070,15.6,No,1454.12
+New,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,499.0
+New,Asus,VivoBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,686.45
+New,Asus,VivoBook,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1422.0
+New,Asus,Ultra,Intel Evo Core i7,16,32,SSD,RTX 3050,14.0,No,1349.0
+New,Acer,ConceptD,Intel Core i7,32,1000,SSD,RTX A3000,15.6,Yes,2595.0
+New,Deep Gaming,Nubian,Intel Core i7,32,1000,SSD,RTX 3050,15.6,No,1409.0
+New,Deep Gaming,Nubian,Intel Core i7,32,1000,SSD,RTX 3050,15.6,No,1334.0
+New,Deep Gaming,Nubian,Intel Core i7,32,2000,SSD,RTX 3050,15.6,No,1525.0
+New,Deep Gaming,Nubian,Intel Core i7,64,1000,SSD,RTX 3050,15.6,No,1497.0
+New,Deep Gaming,Nubian,Intel Core i7,64,2000,SSD,RTX 3050,15.6,No,1615.0
+New,Deep Gaming,Nubian,Intel Core i7,32,1000,SSD,RTX 3050,17.3,No,1475.0
+New,Deep Gaming,Nubian,Intel Core i7,64,1000,SSD,RTX 3050,17.3,No,1639.01
+New,Dell,Latitude,Intel Core i7,8,512,SSD,RTX 3050,13.3,No,1259.59
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1044.74
+New,Dell,Latitude,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,1177.9
+New,Dell,Latitude,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1237.85
+New,Dell,Latitude,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1091.0
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,915.78
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1383.44
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1231.71
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1007.0
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,2450.71
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1040.55
+New,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1307.01
+New,Dell,Latitude,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1463.4
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1637.09
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,2033.25
+New,Dell,Latitude,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1365.1
+New,Dell,Latitude,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1675.2
+New,Dell,Latitude,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1715.18
+New,Dell,Precision,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1190.0
+New,Dell,Precision,Intel Core i5,8,512,SSD,T 500,15.6,No,1848.46
+New,Dell,Precision,Intel Core i7,16,512,SSD,RTX A1000,14.0,No,3469.0
+New,Dell,Precision,Intel Core i7,16,512,SSD,RTX A2000,17.0,Yes,3936.0
+New,Dell,Vostro,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,926.63
+New,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,717.0
+New,Dell,Vostro,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,930.16
+New,Dell,Vostro,Intel Core i3,4,256,SSD,RTX 3050,15.6,No,600.68
+New,Dell,Vostro,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,688.88
+New,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1289.17
+New,Dell,Vostro,Intel Evo Core i5,8,256,SSD,RTX 3050,13.3,No,919.0
+New,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1091.08
+New,Dell,Vostro,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,1895.48
+New,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,16.0,No,887.87
+New,Dell,XPS,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,3012.09
+Refurbished,Dell,XPS,Intel Core i7,32,1000,SSD,RTX 3050,15.6,Yes,2818.09
+New,Dynabook Toshiba,Portégé,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1369.87
+New,Dynabook Toshiba,Portégé,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,1323.11
+New,Dynabook Toshiba,Portégé,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,1779.99
+New,Dynabook Toshiba,Portégé,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,1581.0
+New,Dynabook Toshiba,Satellite Pro,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,734.64
+Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,397.29
+New,Dynabook Toshiba,Tecra,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,1093.01
+New,Gigabyte,Aero,Intel Core i7,16,1000,SSD,RTX 3080,15.6,No,2835.19
+New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,16.0,No,2317.0
+New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,17.3,No,2228.59
+New,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2299.0
+New,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 4070,15.6,No,2511.0
+New,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 3060,17.3,No,1552.82
+New,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 4080,17.3,No,2532.38
+New,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 3070,15.6,No,1878.04
+New,Gigabyte,G7,Intel Core i5,16,512,SSD,RTX 3050,17.3,No,1376.02
+Refurbished,Gigabyte,U4,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,899.0
+New,HP,G7,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,684.93
+New,HP,15S,AMD 3020e,4,256,SSD,RTX 3050,15.6,No,355.01
+New,HP,15S,AMD 3020e,4,128,SSD,RTX 3050,15.6,No,367.34
+New,HP,15S,AMD Athlon,8,256,SSD,RTX 3050,15.6,No,459.99
+New,HP,15S,AMD Athlon,8,256,SSD,RTX 3050,15.6,No,377.0
+New,HP,15S,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,478.45
+New,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,581.01
+New,HP,15S,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,593.11
+New,HP,15S,AMD Ryzen 3,8,512,SSD,RTX 3050,15.6,No,586.66
+New,HP,15S,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,594.22
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,709.65
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,554.0
+New,HP,15S,AMD Ryzen 7,12,512,SSD,RTX 3050,15.6,No,716.14
+New,HP,15S,AMD Ryzen 7,12,512,SSD,RTX 3050,15.6,No,673.37
+New,HP,15S,AMD Ryzen 7,8,256,SSD,RTX 3050,15.6,No,600.57
+New,HP,15S,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,614.0
+New,HP,15S,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,601.33
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,652.92
+New,HP,15S,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,538.98
+New,HP,15S,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,335.28
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,885.9
+New,HP,15S,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,451.46
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,378.94
+New,HP,15S,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,646.39
+New,HP,15S,Intel Celeron,8,512,SSD,RTX 3050,15.6,No,517.01
+New,HP,15S,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,354.0
+New,HP,15S,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,403.83
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,623.66
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,521.75
+New,HP,15S,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,571.39
+New,HP,15S,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,542.99
+New,HP,15S,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,494.81
+New,HP,15S,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,507.14
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,550.78
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,734.64
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,759.0
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,901.0
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,526.1
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,676.0
+New,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,614.99
+New,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,461.05
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,432.26
+New,HP,15S,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,402.22
+New,HP,15S,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,476.99
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,628.96
+New,HP,15S,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,716.14
+New,HP,17,Intel Core i3,8,512,SSD,RTX 3050,17.3,No,661.11
+New,HP,250,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1730.38
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,466.1
+New,HP,250,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,445.89
+New,HP,250,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,586.4
+New,HP,250,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,876.08
+New,HP,250,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,741.0
+New,HP,250,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,791.0
+New,HP,250,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,882.01
+New,HP,255,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,1094.9
+New,HP,255,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,455.55
+New,HP,255,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,839.14
+New,HP,255,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,644.7
+New,HP,255,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,538.99
+New,HP,G7,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,581.07
+New,HP,Chromebook,Intel Celeron,4,64,eMMC,RTX 3050,14.0,No,329.0
+New,HP,Chromebook,Mediatek MT8183,4,32,eMMC,RTX 3050,11.6,No,458.0
+New,HP,Chromebook,Intel Celeron,4,32,eMMC,RTX 3050,11.6,Yes,332.41
+New,HP,Envy,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1049.99
+New,HP,Envy,Intel Core i7,16,512,SSD,RTX 2050,0.0,Yes,1863.52
+New,HP,Go,Intel Core i7,16,1000,SSD,RTX 3050,13.5,No,1699.01
+New,HP,EliteBook,Intel Core i7,32,1000,SSD,RTX 3050,14.0,No,2502.66
+New,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1624.46
+New,HP,EliteBook,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1042.26
+Refurbished,HP,EliteBook,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,1474.28
+New,HP,EliteBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,1064.59
+New,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1519.99
+Refurbished,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,2025.96
+New,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1015.01
+New,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,1463.31
+New,HP,EliteBook,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,1999.0
+New,HP,EliteBook,Intel Core i5,8,512,SSD,RTX 3050,13.3,Yes,1051.96
+New,HP,15S,AMD Ryzen 7,12,256,SSD,RTX 3050,15.6,No,750.08
+New,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1627.74
+New,HP,Omen,AMD Ryzen 7,16,512,SSD,RTX 3070,16.1,No,2025.23
+New,HP,Pavilion,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,977.0
+New,HP,Pavilion,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,920.82
+New,HP,Pavilion,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,816.21
+New,HP,Pavilion,Intel Core i5,8,512,SSD,RTX 3050,14.0,Yes,987.0
+New,HP,Pavilion,Intel Core i3,8,256,SSD,RTX 3050,14.0,Yes,793.0
+New,HP,Pavilion,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,1205.0
+New,HP,ProBook,Intel Core i5,4,500,SSD,RTX 3050,13.3,No,919.83
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1399.24
+New,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,776.32
+New,HP,Victus,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,899.01
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 3050,16.1,No,1220.78
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 3050,16.1,No,1301.0
+New,HP,Victus,Intel Core i7,16,512,SSD,RTX 3050,16.1,No,1192.98
+New,HP,Victus,AMD Ryzen 5,8,512,SSD,GTX 1650,16.1,No,812.52
+New,HP,Victus,AMD Ryzen 7,8,512,SSD,Radeon Pro 5500M,16.1,No,909.13
+New,HP,Victus,AMD Ryzen 5,16,512,SSD,RTX 3050,16.1,No,865.4
+New,HP,Victus,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,998.56
+New,HP,Victus,AMD Ryzen 5,8,512,SSD,GTX 1650,16.1,No,792.65
+New,HP,Zbook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,2426.81
+New,HP,Zbook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1385.0
+New,HP,Zbook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1778.0
+New,HP,Zbook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1997.09
+New,HP,Zbook,Intel Core i7,16,512,SSD,T 500,14.0,No,1800.03
+New,HP,Zbook,Intel Core i7,16,512,SSD,T 500,16.0,No,1800.03
+New,HP,Zbook,Intel Core i5,16,512,SSD,RTX 3050,14.0,Yes,2426.53
+New,HP,Zbook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,2484.11
+Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,RTX A2000,16.0,No,3697.02
+New,HP,Zbook,Intel Core i7,32,1000,SSD,RTX A3000,16.0,No,4842.43
+New,HP,Zbook,Intel Core i7,16,512,SSD,T 600,15.6,No,2008.81
+New,HP,Zbook,Intel Core i7,16,512,SSD,RTX A3000,15.6,No,5368.77
+New,HP,Zbook,Intel Core i7,32,512,SSD,RTX 3060,16.0,No,3637.71
+New,HP,Zbook,Intel Core i7,32,1000,SSD,RTX A2000,16.0,No,3777.49
+New,Innjoo,Voom,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,311.37
+New,Innjoo,Voom,Intel Celeron,8,512,SSD,RTX 3050,15.6,No,392.55
+New,Innjoo,Voom,Intel Celeron,4,64,eMMC,RTX 3050,14.1,No,251.4
+New,Innjoo,Voom,Intel Celeron,6,64,eMMC,RTX 3050,14.1,No,383.61
+New,Innjoo,Voom,Intel Celeron,6,128,SSD,RTX 3050,14.1,No,317.02
+New,Innjoo,Voom,Intel Celeron,6,128,eMMC,RTX 3050,14.1,No,431.38
+New,Jetwing,N1510,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,469.27
+New,LG,Gram,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1720.54
+New,LG,Gram,Intel Core i7,16,512,SSD,RTX 3050,17.0,No,1646.46
+New,Lenovo,Chromebook,AMD 3015Ce,4,32,eMMC,RTX 3050,11.6,No,327.0
+New,Lenovo,100e,Intel Celeron,4,128,SSD,RTX 3050,11.6,No,310.84
+New,Lenovo,14w,AMD 3015e,4,128,SSD,RTX 3050,14.0,No,461.0
+New,Lenovo,IdeaPad,AMD 3020e,4,128,eMMC,RTX 3050,14.0,No,435.0
+New,Lenovo,IdeaPad,AMD 3020e,4,256,SSD,RTX 3050,14.0,No,422.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,554.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,867.0
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,531.34
+New,Lenovo,IdeaPad,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,751.88
+Refurbished,Lenovo,IdeaPad,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,529.0
+New,Lenovo,IdeaPad,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,547.91
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,17.3,No,895.0
+New,Lenovo,IdeaPad,Intel Celeron,8,128,eMMC,RTX 3050,15.6,No,579.21
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,1015.55
+New,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,1274.9
+New,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,996.21
+New,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3060,0.0,No,1505.0
+New,Lenovo,IdeaPad,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,949.0
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1205.99
+New,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1098.99
+New,Lenovo,Legion,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2328.0
+New,Lenovo,Legion,Intel Core i7,16,512,SSD,RTX 3070,15.6,No,2389.0
+New,Lenovo,Legion,Intel Core i7,16,1000,SSD,RTX 3060,16.0,No,1944.0
+New,Lenovo,Legion,Intel Core i7,32,1000,SSD,RTX 3070,16.0,No,2417.0
+New,Lenovo,Legion,Intel Core i9,32,1000,SSD,RTX 4080,16.0,No,5018.14
+New,Lenovo,ThinkBook,Intel Evo Core i5,16,512,SSD,RTX 3050,13.3,No,1162.82
+New,Lenovo,ThinkBook,AMD Ryzen 5,8,256,SSD,RTX 3050,14.0,No,875.05
+New,Lenovo,ThinkBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1079.91
+New,Lenovo,ThinkBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1156.47
+New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,988.52
+New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1357.0
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,893.52
+Refurbished,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,Yes,794.99
+Refurbished,Lenovo,ThinkBook,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,786.92
+Refurbished,Lenovo,ThinkBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,874.6
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1000.27
+Refurbished,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1036.62
+New,Lenovo,ThinkBook,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,745.0
+New,Lenovo,ThinkBook,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,846.67
+New,Lenovo,ThinkBook,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,1149.56
+New,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,896.57
+Refurbished,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,GTX 1650,15.6,No,1350.05
+New,Lenovo,ThinkBook,AMD Ryzen 7,16,512,SSD,RTX 3060,16.0,No,2787.22
+New,Lenovo,ThinkBook,AMD Ryzen 9,32,1000,SSD,RTX 3060,16.0,No,2424.01
+New,Lenovo,ThinkBook,AMD Ryzen 7,16,512,SSD,RTX 3060,16.0,No,1748.99
+New,Lenovo,ThinkBook,Intel Core i7,32,1000,SSD,RTX 3050,17.3,Yes,2858.0
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1253.5
+New,Lenovo,ThinkPad,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,1061.0
+New,Lenovo,ThinkPad,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,1002.59
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1135.0
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1423.48
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1178.0
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,13.3,Yes,939.67
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,13.3,Yes,1329.0
+New,Lenovo,ThinkPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,919.0
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1161.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1555.46
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1354.18
+New,Lenovo,ThinkPad,Intel Core i7,16,1000,SSD,RTX A2000,16.0,No,4138.67
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,T 550,14.0,No,2175.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX A2000,15.6,No,2048.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX A2000,0.0,No,2569.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX A1000,16.0,No,3327.92
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,T 550,16.0,No,2132.04
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX A2000,17.3,No,2577.98
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1782.0
+New,Lenovo,ThinkPad,Intel Core i7,32,1000,SSD,MX 550,14.0,No,2671.99
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,2068.0
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1223.43
+New,Lenovo,ThinkPad,Intel Evo Core i5,8,256,SSD,RTX 3050,14.0,No,1512.54
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1506.99
+New,Lenovo,ThinkPad,Intel Core i7,16,2000,SSD,MX 450,15.6,No,1795.0
+New,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,849.0
+New,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,16.0,No,1925.0
+New,Lenovo,ThinkPad,Intel Evo Core i5,8,256,SSD,RTX 3050,14.0,No,1334.94
+New,Lenovo,ThinkPad,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.0,Yes,3107.62
+New,Lenovo,ThinkPad,Intel Core i7,16,1000,SSD,RTX 3050,13.0,No,1959.57
+New,Lenovo,ThinkPad,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1358.61
+New,Lenovo,ThinkPad,Qualcomm Snapdragon 8,16,256,SSD,RTX 3050,13.3,No,1997.0
+New,Lenovo,ThinkPad,AMD Ryzen 7,16,512,SSD,RTX 3050,13.3,No,2068.0
+New,Lenovo,ThinkPad,AMD Ryzen 7,16,512,SSD,RTX 3050,16.0,No,2281.0
+New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1999.4
+New,Lenovo,ThinkPad,Intel Evo Core i7,32,1000,SSD,RTX 3050,14.0,No,3721.08
+New,Lenovo,V14,AMD Ryzen 3,8,256,SSD,RTX 3050,14.0,No,756.95
+Refurbished,Lenovo,V14,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,396.03
+New,Lenovo,V14,Intel Core i3,8,512,SSD,RTX 3050,14.0,No,513.87
+New,Lenovo,V15,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,564.62
+New,Lenovo,V15,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,661.0
+New,Lenovo,V15,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,661.77
+New,Lenovo,V15,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,506.61
+New,Lenovo,V15,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,718.0
+New,Lenovo,V15,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,547.63
+New,Lenovo,V15,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,979.0
+New,Lenovo,V15,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,842.99
+New,Lenovo,V15,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,339.78
+New,Lenovo,V15,Intel Celeron,4,256,SSD,RTX 3050,15.6,No,361.0
+New,Lenovo,V15,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,576.66
+New,Lenovo,Yoga,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,Yes,1311.0
+New,Lenovo,Yoga,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,2383.85
+New,Lenovo,Yoga,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,2646.0
+New,Lenovo,Yoga,Intel Core i5,8,128,SSD,RTX 3050,15.6,Yes,1168.13
+New,Lenovo,Yoga,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,2074.68
+New,Lenovo,Yoga,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,1625.28
+New,Lenovo,Yoga,Intel Evo Core i7,8,512,SSD,RTX 3050,14.0,No,1271.0
+New,Lenovo,Yoga,Intel Evo Core i5,16,512,SSD,RTX 3050,14.5,No,1595.12
+New,Lenovo,Yoga,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,2744.99
+New,MSI,Bravo,AMD Ryzen 5,8,512,SSD,Radeon Pro 5500M,15.6,No,925.34
+New,MSI,Creator,Intel Core i9,64,2000,SSD,RTX A5500,17.0,Yes,3448.42
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 4050,15.6,No,1230.27
+New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2199.31
+New,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1499.95
+New,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3070,17.3,No,2303.34
+New,MSI,Modern,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1214.16
+New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1731.99
+New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4090,17.0,No,3864.4
+Refurbished,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1799.0
+New,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,3664.04
+New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 3050,14.0,No,1708.96
+Refurbished,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 3050,16.0,Yes,2299.0
+New,MSI,Titan,Intel Core i9,64,2000,SSD,RTX 4090,17.3,No,4993.11
+New,MSI,WS63,Intel Core i7,32,1000,SSD,RTX 3050,15.6,No,3900.5
+New,Medion,Akoya,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,369.85
+New,Medion,Akoya,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,399.99
+New,Medion,Akoya,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,663.9
+New,Medion,Akoya,Intel Celeron,4,64,eMMC,RTX 3050,13.3,No,470.86
+New,Medion,Akoya,Intel Celeron,4,128,SSD,RTX 3050,14.0,No,267.49
+New,Medion,Akoya,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,408.24
+New,Medion,Akoya,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,598.31
+New,Medion,Akoya,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,670.85
+New,Microsoft,Surface Go,Intel Core M3,8,128,SSD,RTX 3050,10.5,Yes,1147.67
+New,Microsoft,Surface Go,Intel Core i3,8,256,SSD,RTX 3050,10.5,Yes,1032.0
+New,Microsoft,Surface Go,Intel Core i3,8,256,SSD,RTX 3050,10.5,Yes,957.81
+New,Microsoft,Surface Go,Intel Core i3,8,128,SSD,RTX 3050,10.5,Yes,808.0
+New,Microsoft,Surface Go,Intel Core i3,8,128,SSD,RTX 3050,10.5,Yes,864.0
+New,Microsoft,Surface Laptop,Intel Core i5,16,512,SSD,RTX 3050,13.5,Yes,2024.05
+New,Microsoft,Surface Laptop,Intel Core i5,8,256,SSD,RTX 3050,13.5,Yes,951.74
+New,Microsoft,Surface Laptop,Intel Core i5,8,512,SSD,RTX 3050,13.5,Yes,1668.0
+New,Microsoft,Surface Laptop,Intel Core i7,8,512,SSD,RTX 3050,15.0,Yes,1251.19
+New,Microsoft,Surface Laptop,AMD Ryzen 7,8,256,SSD,RTX 3050,15.0,Yes,1649.54
+New,Microsoft,Surface Laptop,Intel Core i5,16,512,SSD,RTX 3050,13.5,Yes,3747.91
+New,Microsoft,Surface Laptop,Intel Core i5,8,256,SSD,RTX 3050,13.5,Yes,948.14
+New,Microsoft,Surface Laptop,Intel Evo Core i5,16,512,SSD,RTX 3050,13.5,Yes,1846.85
+New,Microsoft,Surface Laptop,Intel Evo Core i5,8,256,SSD,RTX 3050,13.5,Yes,1321.47
+New,Microsoft,Surface Laptop,Intel Evo Core i5,8,512,SSD,RTX 3050,13.5,Yes,1576.27
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,512,SSD,RTX 3050,13.5,Yes,2022.7
+New,Microsoft,Surface Laptop,Intel Evo Core i5,8,512,SSD,RTX 3050,13.5,Yes,1576.27
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,256,SSD,RTX 3050,15.0,Yes,2312.1
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,512,SSD,RTX 3050,13.5,Yes,2022.7
+New,Microsoft,Surface Laptop,Intel Evo Core i7,8,256,SSD,RTX 3050,15.0,Yes,1658.99
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,256,SSD,RTX 3050,15.0,Yes,2103.55
+New,Microsoft,Surface Laptop,Intel Evo Core i7,16,512,SSD,RTX 3050,15.0,Yes,2150.38
+New,Microsoft,Surface Laptop,Intel Evo Core i7,8,512,SSD,RTX 3050,15.0,Yes,1838.29
+New,Microsoft,Surface Laptop,Intel Core i5,8,128,SSD,RTX 3050,12.4,Yes,824.0
+New,Microsoft,Surface Laptop,Intel Core i5,4,64,eMMC,RTX 3050,12.4,Yes,686.88
+New,Microsoft,Surface Laptop,Intel Core i5,8,256,SSD,RTX 3050,12.4,Yes,1134.21
+New,Microsoft,Surface Laptop,Intel Core i7,16,512,SSD,RTX 3050,14.4,Yes,2264.55
+New,Microsoft,Surface Pro,Intel Core i7,16,256,SSD,RTX 3050,12.3,No,1649.0
+New,Microsoft,Surface Pro,Intel Core i7,16,512,SSD,RTX 3050,12.3,No,2099.0
+Refurbished,Microsoft,Surface Pro,Intel Core i5,8,128,SSD,RTX 3050,12.3,Yes,1009.99
+New,Microsoft,Surface Pro,Intel Evo Core i7,16,1000,SSD,RTX 3050,12.3,Yes,2842.5
+New,Microsoft,Surface Pro,Intel Core i5,16,512,SSD,RTX 3050,13.0,Yes,1916.99
+New,Microsoft,Surface Pro,Intel Evo Core i5,8,256,SSD,RTX 3050,13.0,Yes,1394.98
+New,Microsoft,Surface Pro,Intel Evo Core i7,16,256,SSD,RTX 3050,13.0,Yes,1897.72
+New,Microsoft,Surface Pro,Intel Core i7,16,256,SSD,RTX 3050,13.0,Yes,1724.99
+New,Microsoft,Surface Pro,Intel Evo Core i5,8,128,SSD,RTX 3050,13.0,Yes,1582.0
+New,Microsoft,Surface Pro,Intel Evo Core i7,16,256,SSD,RTX 3050,13.0,Yes,1467.58
+New,Microsoft,Surface Pro,Microsoft SQ1,16,512,SSD,RTX 3050,13.0,Yes,2406.35
+New,Millenium,AURELION,Intel Core i7,16,500,SSD,GTX 1660,15.6,No,1640.98
+New,Millenium,AZIR,Intel Core i7,16,500,SSD,RTX 2070,15.6,No,2312.71
+New,MSI,Prestige,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1029.99
+New,Primux,Ioxbook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,438.46
+New,Primux,Ioxbook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,346.28
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,3099.98
+New,Realme,Book Prime,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,999.0
+New,Samsung,Chromebook,Intel Celeron,4,64,SSD,RTX 3050,12.4,Yes,498.73
+New,Thomson,Go,Qualcomm Snapdragon 8,8,256,SSD,RTX 3050,13.0,No,436.56
+New,Toshiba,Tecra,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,799.0
+New,Vant,Edge,Intel Core i7,16,500,SSD,RTX 3050,14.0,No,1123.0
+New,Vant,Edge,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1162.0
+New,Vant,Edge,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1162.0
+New,Vant,Edge,Intel Core i7,16,500,SSD,RTX 3050,14.0,No,1123.0
+New,Vant,Edge,Intel Core i7,40,1000,SSD,RTX 3050,14.0,No,1217.01
+New,Vant,Edge,Intel Core i7,40,1000,SSD,RTX 3050,14.0,No,1217.01
+New,Vant,Edge,Intel Core i5,16,500,SSD,RTX 3050,14.0,No,994.0
+New,Vant,Edge,Intel Core i7,16,500,SSD,RTX 3050,14.0,No,1123.0
+New,Vant,Edge,Intel Core i7,16,500,SSD,RTX 3050,14.0,No,1123.0
+New,Vant,Moove,Intel Core i5,8,500,SSD,RTX 3050,14.0,No,632.0
+Refurbished,Asus,Chromebook,Intel Core M3,8,64,eMMC,RTX 3050,14.0,Yes,549.0
+Refurbished,Asus,F415EA,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,499.0
+Refurbished,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,519.99
+Refurbished,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,599.0
+Refurbished,Asus,F515,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,479.0
+Refurbished,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,599.0
+Refurbished,Asus,F515,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,749.0
+Refurbished,Asus,F515,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,659.0
+Refurbished,Asus,G7,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,569.0
+Refurbished,Asus,BR,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,649.0
+Refurbished,Asus,ROG,Intel Core i9,16,1000,SSD,RTX 3050,13.4,Yes,3999.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,949.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3080,15.6,No,3099.0
+Refurbished,Asus,ROG,AMD Ryzen 7,32,1000,SSD,RTX 3060,17.3,No,2099.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3070,17.3,No,2799.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3070,17.3,No,2353.24
+Refurbished,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 3070,17.3,No,2999.0
+Refurbished,Asus,ROG,AMD Ryzen 9,64,4000,SSD,RTX 3080,16.0,No,3999.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3060,15.6,No,1599.98
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3080,15.6,No,1888.94
+Refurbished,Asus,ROG,Intel Core i9,32,2000,SSD,RTX 3080,16.0,No,3999.0
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1799.0
+Refurbished,Asus,TUF,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1199.0
+Refurbished,Asus,TUF,Intel Core i7,32,1000,SSD,RTX 3060,17.3,No,1799.0
+Refurbished,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,749.0
+Refurbished,Asus,VivoBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,599.0
+Refurbished,Asus,VivoBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,699.0
+Refurbished,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1099.0
+Refurbished,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,609.04
+Refurbished,Acer,Aspire,AMD Ryzen 7,8,512,SSD,RTX 3050,15.6,No,699.0
+Refurbished,Acer,Aspire,Intel Celeron,4,128,SSD,RTX 3050,15.6,No,264.14
+Refurbished,Acer,Aspire,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,316.94
+Refurbished,Acer,Aspire,Intel Core i5,12,512,SSD,RTX 3050,15.6,No,477.28
+Refurbished,Acer,Aspire,Intel Core i5,12,512,SSD,RTX 3050,15.6,No,373.49
+Refurbished,Acer,Aspire,Intel Core i5,12,256,SSD,RTX 3050,15.6,No,391.24
+Refurbished,Acer,Aspire,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,475.83
+Refurbished,Acer,Aspire,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,569.0
+New,Acer,Aspire,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,810.99
+Refurbished,Acer,Aspire,Intel Core i3,8,512,SSD,RTX 3050,14.0,No,334.24
+Refurbished,Acer,Aspire,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,590.88
+Refurbished,Acer,Chromebook,Intel Celeron,8,128,eMMC,RTX 3050,14.0,Yes,449.0
+Refurbished,Acer,Chromebook,Intel Celeron,8,128,eMMC,RTX 3050,15.6,No,399.0
+Refurbished,Acer,ConceptD,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,1899.0
+Refurbished,Acer,Extensa,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,423.58
+Refurbished,Acer,Nitro,AMD Ryzen 7,16,512,SSD,GTX 1650,15.6,No,670.53
+Refurbished,Acer,Nitro,Intel Core i5,8,256,SSD,GTX 1650,15.6,No,477.59
+Refurbished,Acer,Nitro,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,675.24
+Refurbished,Acer,Nitro,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,666.69
+Refurbished,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,885.94
+Refurbished,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1199.0
+Refurbished,Acer,Nitro,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1599.0
+Refurbished,Acer,Nitro,AMD Ryzen 7,16,1000,SSD,RTX 3070,17.3,No,1214.63
+Refurbished,Acer,Nitro,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,966.04
+Refurbished,Acer,Book,Intel Evo Core i5,8,512,SSD,RTX 3050,14.0,Yes,1499.0
+Refurbished,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,914.64
+Refurbished,Acer,Predator,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1098.29
+Refurbished,Acer,Predator,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1344.69
+Refurbished,Acer,Predator,Intel Core i7,32,1000,SSD,RTX 3060,16.0,No,1751.09
+Refurbished,Apple,MacBook Air,Intel Core i3,8,256,SSD,RTX 3050,13.3,No,710.0
+Refurbished,Apple,MacBook Air,Intel Core i3,8,256,SSD,RTX 3050,13.3,No,727.37
+Refurbished,Apple,MacBook Air,Intel Core i3,8,256,SSD,RTX 3050,13.3,No,767.39
+Refurbished,Apple,MacBook Air,Intel Core i5,8,128,SSD,RTX 3050,13.3,No,625.91
+Refurbished,Apple,MacBook Air,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,873.6
+Refurbished,Apple,MacBook Air,Intel Core i5,8,128,SSD,RTX 3050,13.3,No,745.15
+Refurbished,Apple,MacBook Air,Intel Core i5,8,128,SSD,RTX 3050,13.3,No,658.25
+Refurbished,Apple,MacBook Air,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1098.08
+Refurbished,Apple,MacBook Air,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,755.0
+Refurbished,Apple,MacBook Air,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1020.01
+Refurbished,Apple,MacBook Air,Intel Core i5,4,256,SSD,RTX 3050,13.3,No,324.0
+Refurbished,Apple,Macbook,Intel Core M3,8,256,SSD,RTX 3050,12.0,No,614.08
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,16,1000,SSD,RTX 3050,14.2,No,2500.01
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,16,1000,SSD,RTX 3050,16.2,No,2979.0
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,16,1000,SSD,RTX 3050,16.2,No,2950.0
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,16,512,SSD,RTX 3050,14.2,No,2500.01
+Refurbished,Apple,MacBook Pro,Apple M1 Pro,32,1000,SSD,RTX 3050,14.2,No,2500.01
+Refurbished,Apple,MacBook Pro,Apple M1,16,1000,SSD,RTX 3050,13.3,No,1999.0
+Refurbished,Apple,MacBook Pro,Apple M1,8,256,SSD,RTX 3050,13.3,No,1029.76
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,128,SSD,RTX 3050,13.3,No,906.5
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,128,SSD,RTX 3050,13.3,No,906.5
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,764.67
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,926.65
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,764.67
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,804.46
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1027.5
+Refurbished,Apple,MacBook Pro,Intel Core i5,16,1000,SSD,RTX 3050,13.3,No,1491.33
+Refurbished,Apple,MacBook Pro,Intel Core i5,16,1000,SSD,RTX 3050,13.3,No,1491.33
+Refurbished,Apple,MacBook Pro,Intel Core i5,16,512,SSD,RTX 3050,13.3,No,1299.75
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,816.4
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1155.01
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1063.34
+Refurbished,Apple,MacBook Pro,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,1299.75
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,256,SSD,RTX 3050,15.4,No,1118.25
+Refurbished,Apple,MacBook Pro,Intel Core i9,16,512,SSD,Radeon Pro RX 560X,15.4,No,1410.65
+Refurbished,Apple,MacBook Pro,Intel Core i9,16,512,SSD,Radeon Pro RX 560X,15.4,No,1410.65
+Refurbished,Apple,MacBook Pro,Intel Core i7,16,1000,SSD,RTX 3050,13.3,No,1632.5
+Refurbished,Apple,MacBook Air,Apple M2,8,256,SSD,RTX 3050,13.6,No,1519.0
+Refurbished,Apple,MacBook Pro,Intel Core i9,32,2000,SSD,Radeon Pro 5500M,16.0,No,2711.4
+Refurbished,Asus,Chromebook,Intel Celeron,8,64,eMMC,RTX 3050,14.0,No,399.0
+Refurbished,Asus,E510,Intel Celeron,4,128,eMMC,RTX 3050,15.6,No,299.0
+Refurbished,Asus,ExpertBook,Intel Core i5,8,1000,SSD,RTX 3050,15.6,No,699.0
+Refurbished,Asus,ExpertBook,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,469.0
+Refurbished,Asus,F415,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,403.23
+Refurbished,Asus,F515,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,699.0
+Refurbished,Asus,P1411,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,549.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3080,13.4,Yes,2099.0
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1020.84
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1183.68
+Refurbished,Asus,ROG,AMD Ryzen 9,16,1000,SSD,RTX 3060,15.6,No,1299.0
+Refurbished,Asus,ROG,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1106.34
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3080,15.6,No,2071.29
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3070,17.3,No,1931.64
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,GTX 1650,14.0,No,771.79
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,GTX 1650,14.0,No,852.09
+Refurbished,Asus,ROG,AMD Ryzen 9,16,1000,SSD,GTX 1660,14.0,No,1399.0
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RX 6800S,14.0,No,2799.0
+Refurbished,Asus,ROG,Intel Core i7,32,1000,SSD,RTX 2080,17.3,No,1792.89
+Refurbished,Asus,ROG,Intel Core i9,32,3000,SSD,RTX 3080,17.3,No,3499.01
+Refurbished,Asus,ROG,Intel Core i7,16,1000,SSD,GTX 1660,15.6,No,880.19
+Refurbished,Asus,ROG,Intel Core i7,16,1000,SSD,RTX 2060,15.6,No,856.24
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 3070,15.6,No,1499.0
+Refurbished,Asus,ROG,AMD Ryzen 7,32,1000,SSD,RTX 3070,15.6,No,1397.54
+Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 3070,17.3,No,1999.0
+Refurbished,Asus,ROG,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,815.44
+Refurbished,Asus,ROG,Intel Core i7,32,1000,SSD,RTX 2070,17.3,No,1465.79
+Refurbished,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 2080,17.3,No,1770.24
+Refurbished,Asus,ROG,AMD Ryzen 9,64,1000,SSD,RTX 3080,17.3,No,2871.29
+Refurbished,Asus,ROG,Intel Core i7,32,1000,SSD,RTX 2080,17.3,No,1571.74
+Refurbished,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 2070,17.3,No,1861.34
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,GTX 1660,14.0,No,854.59
+Refurbished,Asus,ROG,AMD Ryzen 7,16,1000,SSD,RTX 2060,15.6,No,1091.09
+Refurbished,Asus,ROG,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,1067.29
+Refurbished,Asus,ROG,Intel Core i7,16,1000,SSD,RTX 2070,15.6,No,1271.09
+Refurbished,Asus,ROG,Intel Core i7,16,512,SSD,RTX 2070,17.3,No,1648.69
+Refurbished,Asus,TUF,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,942.84
+Refurbished,Asus,TUF,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,830.39
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 2060,15.6,No,757.53
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1175.14
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 3070,15.6,No,1999.0
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 3060,17.3,No,1270.23
+Refurbished,Asus,TUF,Intel Core i7,16,1000,SSD,GTX 1650,15.6,No,652.19
+Refurbished,Asus,TUF,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,606.09
+Refurbished,Asus,TUF,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,794.74
+Refurbished,Asus,TUF,AMD Ryzen 7,16,512,SSD,RTX 2060,15.6,No,766.09
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,RTX 2060,15.6,No,853.69
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,GTX 1650,15.6,No,647.39
+Refurbished,Asus,TUF,AMD Ryzen 7,16,1000,SSD,GTX 1660,15.6,No,785.69
+Refurbished,Asus,VivoBook,AMD Ryzen 7,8,512,SSD,RTX 3050,14.0,No,495.74
+Refurbished,Asus,VivoBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,363.83
+Refurbished,Asus,VivoBook,Intel Core i7,12,512,SSD,RTX 3050,15.6,No,799.0
+Refurbished,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,549.99
+Refurbished,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,699.0
+Refurbished,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,799.0
+Refurbished,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,799.0
+Refurbished,Asus,VivoBook,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,699.0
+Refurbished,Asus,VivoBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,999.0
+Refurbished,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,849.0
+Refurbished,Asus,ZenBook,Intel Evo Core i7,16,512,SSD,RTX 3050,13.3,Yes,1099.99
+Refurbished,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,799.0
+Refurbished,Asus,ZenBook,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,571.54
+Refurbished,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,950.0
+Refurbished,Asus,ZenBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,849.0
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,579.2
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,489.0
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,499.0
+Refurbished,Dell,Latitude,Intel Core i5,8,240,SSD,RTX 3050,14.0,No,499.0
+Refurbished,Dell,Latitude,Intel Core i5,8,128,SSD,RTX 3050,15.6,No,489.0
+Refurbished,Dell,Latitude,Intel Core i5,16,256,SSD,RTX 3050,14.0,No,529.0
+Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,519.01
+Refurbished,Dell,Vostro,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,617.54
+Refurbished,Dell,Vostro,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,420.74
+Refurbished,Dell,Vostro,Intel Core i5,8,512,SSD,RTX 3050,13.3,No,511.59
+Refurbished,Dell,Vostro,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,549.93
+Refurbished,Dell,XPS,Intel Core i5,8,512,SSD,RTX 3050,13.4,No,699.0
+Refurbished,Dell,XPS,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1086.88
+Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i7,8,256,SSD,RTX 3050,15.6,No,427.59
+Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,407.49
+Refurbished,Dynabook Toshiba,Tecra,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,889.0
+Refurbished,Gigabyte,A7,AMD Ryzen 9,16,512,SSD,RTX 3070,17.3,No,1295.89
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1333.69
+Refurbished,Gigabyte,Aero,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1183.28
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1128.54
+Refurbished,Gigabyte,Aero,Intel Core i9,16,1000,SSD,RTX 2070,15.6,No,1313.64
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1110.94
+Refurbished,Gigabyte,Aero,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,1899.0
+Refurbished,Gigabyte,Aero,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1557.69
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1605.19
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1263.99
+Refurbished,Gigabyte,Aero,Intel Core i9,32,2000,SSD,RTX 3080,16.0,No,3799.0
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,17.3,No,2257.84
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,808.49
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,966.14
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1045.94
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,935.69
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1043.24
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1599.0
+Refurbished,Gigabyte,Aorus,Intel Core i7,32,512,SSD,RTX 3070,15.6,No,1300.94
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,1699.0
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,1304.79
+Refurbished,Gigabyte,Aorus,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,3099.0
+Refurbished,Gigabyte,Aorus,Intel Core i7,32,512,SSD,RTX 3070,17.3,No,1478.39
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1699.0
+Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,GTX 1660,15.6,No,835.24
+Refurbished,HP,15S,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,449.0
+Refurbished,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,407.69
+Refurbished,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,555.49
+Refurbished,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,421.27
+Refurbished,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,334.54
+New,HP,15S,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,608.94
+Refurbished,HP,15S,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,475.99
+Refurbished,HP,250,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,392.69
+Refurbished,HP,255,AMD Ryzen 5,8,256,SSD,RTX 3050,15.6,No,410.69
+Refurbished,HP,EliteBook,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,1654.05
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,725.89
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1678.02
+Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,RTX 3050,13.3,No,1943.51
+Refurbished,HP,EliteBook,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,538.0
+Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1689.06
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,520.0
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1074.06
+Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1889.25
+Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,Yes,866.0
+Refurbished,HP,255,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,599.0
+Refurbished,HP,Omen,Intel Core i7,8,1000,SSD,GTX 1050,15.6,No,784.69
+Refurbished,HP,Omen,AMD Ryzen 7,16,1000,SSD,RTX 2060,15.6,No,863.44
+Refurbished,HP,Omen,AMD Ryzen 9,16,1000,SSD,RTX 3070,16.1,No,1242.39
+Refurbished,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1499.0
+Refurbished,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3060,16.1,No,1198.64
+Refurbished,HP,Omen,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,829.33
+Refurbished,HP,Omen,Intel Core i7,32,1000,SSD,RTX 2080,17.3,No,1297.04
+Refurbished,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,1606.44
+Refurbished,HP,Omen,Intel Core i7,16,1000,SSD,RTX 2070,15.6,No,911.84
+Refurbished,HP,Omen,AMD Ryzen 7,16,1000,SSD,GTX 1650,15.6,No,676.84
+Refurbished,HP,Omen,AMD Ryzen 7,16,1000,SSD,RTX 3070,15.6,No,1199.99
+Refurbished,HP,Omen,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,912.44
+Refurbished,HP,Pavilion,AMD Ryzen 7,16,512,SSD,GTX 1650,15.6,No,621.54
+Refurbished,HP,Pavilion,Intel Core i5,8,512,SSD,GTX 1050,16.1,No,545.38
+Refurbished,HP,Pavilion,Intel Core i7,16,512,SSD,GTX 1650,16.1,No,641.14
+Refurbished,HP,Pavilion,Intel Core i7,16,512,SSD,RTX 2060,16.1,No,711.94
+Refurbished,HP,Pavilion,Intel Core i7,8,512,SSD,GTX 1650,17.3,No,663.38
+Refurbished,HP,Pavilion,Intel Core i5,8,512,SSD,MX 130,14.0,No,565.54
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,749.99
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1335.2
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,569.99
+Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,1031.89
+Refurbished,HP,ProBook,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1298.15
+Refurbished,HP,ProBook,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1603.1
+Refurbished,HP,Victus,Intel Core i5,16,512,SSD,GTX 1650,16.1,No,624.78
+Refurbished,HP,Victus,AMD Ryzen 5,16,512,SSD,RTX 3050,16.1,No,735.84
+Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1619.46
+Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,T 500,15.6,No,2677.83
+Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,RTX A3000,15.6,No,3848.01
+Refurbished,HP,Zbook,Intel Core i9,32,1000,SSD,RTX 3050,15.6,No,4805.65
+Refurbished,LG,15U70N,Intel Core i7,16,512,SSD,GTX 1050,15.6,No,704.24
+Refurbished,LG,Gram,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,609.04
+Refurbished,LG,Gram,Intel Evo Core i5,8,512,SSD,RTX 3050,14.0,No,701.28
+Refurbished,LG,Gram,Intel Core i7,32,1000,SSD,RTX 3050,17.0,No,1424.19
+Refurbished,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,569.04
+Refurbished,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,699.0
+Refurbished,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,649.0
+Refurbished,Lenovo,IdeaPad,AMD 3020e,8,256,SSD,RTX 3050,15.6,No,299.0
+Refurbished,Lenovo,IdeaPad,AMD Ryzen 5,16,512,SSD,RTX 3050,15.6,No,1010.27
+Refurbished,Lenovo,IdeaPad,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,713.83
+New,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,860.99
+Refurbished,Lenovo,IdeaPad,Intel Celeron,8,256,SSD,RTX 3050,15.6,No,480.95
+Refurbished,Lenovo,IdeaPad,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,307.09
+Refurbished,Lenovo,IdeaPad,Intel Core i3,8,512,SSD,RTX 3050,15.6,No,719.79
+Refurbished,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,866.86
+Refurbished,Lenovo,IdeaPad,Intel Core i7,8,512,SSD,RTX 3050,15.6,No,934.24
+Refurbished,Lenovo,IdeaPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,999.0
+Refurbished,Lenovo,IdeaPad,Intel Core i7,8,512,SSD,RTX 3050,14.0,Yes,899.0
+Refurbished,Lenovo,IdeaPad,Intel Core i3,8,256,SSD,RTX 3050,14.0,Yes,537.19
+Refurbished,Lenovo,IdeaPad,AMD Ryzen 7,8,512,SSD,RTX 3050,14.0,Yes,799.0
+Refurbished,Lenovo,IdeaPad,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,1249.0
+Refurbished,Lenovo,IdeaPad,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,899.0
+Refurbished,Lenovo,IdeaPad,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,802.61
+Refurbished,Lenovo,IdeaPad,Intel Core i7,8,256,SSD,RTX 3050,15.6,No,501.99
+Refurbished,Lenovo,Legion,AMD Ryzen 7,16,512,SSD,RTX 3060,15.6,No,1150.04
+Refurbished,Lenovo,Legion,AMD Ryzen 7,16,512,SSD,RTX 3060,15.6,No,1299.0
+Refurbished,Lenovo,Legion,AMD Ryzen 7,16,1000,SSD,RTX 3060,15.6,No,996.04
+Refurbished,Lenovo,Legion,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,1475.51
+Refurbished,Lenovo,Legion,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1799.0
+Refurbished,Lenovo,Legion,Intel Core i7,16,1000,SSD,RTX 3060,16.0,No,2326.78
+Refurbished,Lenovo,Legion,Intel Core i9,32,1000,SSD,RTX 3080,16.0,No,3337.69
+Refurbished,Lenovo,Legion,Intel Core i7,16,256,SSD,GTX 1660,15.6,No,875.54
+Refurbished,Lenovo,Legion,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,860.79
+Refurbished,Lenovo,ThinkBook,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,719.79
+Refurbished,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1049.0
+Refurbished,Lenovo,ThinkBook,Intel Core i3,8,256,SSD,RTX 3050,14.0,No,585.29
+Refurbished,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,976.18
+Refurbished,Lenovo,ThinkBook,AMD Ryzen 3,8,256,SSD,RTX 3050,15.6,No,418.79
+Refurbished,Lenovo,ThinkBook,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,970.48
+Refurbished,Lenovo,ThinkBook,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,426.39
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,512,SSD,RTX 3050,14.0,No,882.56
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,256,SSD,RTX 3050,15.6,No,735.92
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,1151.84
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,1074.06
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,13.3,No,1031.46
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,1199.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,846.56
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,512,SSD,RTX 3050,15.6,No,651.6
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,256,SSD,P 500,15.6,No,877.63
+Refurbished,Lenovo,ThinkPad,AMD Ryzen 7,16,512,SSD,RTX 3050,14.0,No,1439.26
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,738.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,1251.91
+Refurbished,Lenovo,ThinkPad,Intel Evo Core i7,16,512,SSD,RTX 3050,14.0,No,2204.98
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,475.0
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,767.75
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,256,SSD,RTX 3050,14.0,No,847.12
+Refurbished,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,898.84
+Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,RTX 3050,15.6,No,802.0
+Refurbished,Lenovo,ThinkPad,Intel Core i7,8,512,SSD,RTX 3050,14.0,No,587.32
+Refurbished,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,16.0,No,2228.08
+Refurbished,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,RTX 3050,14.0,Yes,999.0
+Refurbished,Lenovo,ThinkPad,Intel Core i5,16,512,SSD,RTX 3050,13.3,Yes,1779.0
+Refurbished,Lenovo,V14,AMD Ryzen 5,8,256,SSD,RTX 3050,14.0,No,739.61
+Refurbished,Lenovo,V14,Intel Core i5,8,256,SSD,RTX 3050,14.0,No,675.95
+Refurbished,Lenovo,V15,AMD 3020e,8,256,SSD,RTX 3050,15.6,No,445.79
+Refurbished,Lenovo,V15,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,915.07
+Refurbished,Lenovo,V15,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,786.14
+Refurbished,Lenovo,V15,Intel Core i3,8,256,SSD,RTX 3050,15.6,No,563.92
+Refurbished,Lenovo,V330,Intel Core i3,4,128,SSD,RTX 3050,15.6,No,499.49
+Refurbished,Lenovo,Yoga,Intel Evo Core i7,16,1000,SSD,RTX 3050,14.0,Yes,1999.0
+Refurbished,Lenovo,Yoga,Intel Core i5,8,512,SSD,RTX 3050,13.9,Yes,989.47
+Refurbished,Lenovo,Yoga,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,786.84
+Refurbished,Lenovo,Yoga,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1999.0
+Refurbished,MSI,Alpha,AMD Ryzen 7,16,512,SSD,Radeon Pro 5500M,15.6,No,721.14
+Refurbished,MSI,Alpha,AMD Ryzen 7,16,512,SSD,RTX 3050,15.6,No,711.94
+Refurbished,MSI,Bravo,AMD Ryzen 7,16,1000,SSD,RX 6500M,15.6,No,1149.0
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 2060,15.6,Yes,1414.04
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 2070,15.6,No,1592.89
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 2070,17.3,No,2059.49
+Refurbished,MSI,Creator,Intel Core i7,16,512,SSD,RTX A1000,15.6,No,1399.0
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX A3000,17.0,Yes,3449.0
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 3060,16.0,No,2149.0
+Refurbished,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 3060,16.0,No,1999.0
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 3060,16.0,Yes,2699.0
+Refurbished,MSI,Creator,Intel Core i9,64,2000,SSD,RTX 3070,16.0,Yes,3699.0
+Refurbished,MSI,Creator,Intel Core i9,64,2000,SSD,RTX 3080,17.0,Yes,4599.0
+Refurbished,MSI,Creator,Intel Core i9,32,2000,SSD,RTX 3080,17.0,Yes,3899.0
+Refurbished,MSI,Crosshair,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,2299.0
+Refurbished,MSI,Delta,AMD Ryzen 9,16,1000,SSD,RX 6700M,15.6,No,1699.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 2070,15.6,No,1746.33
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,1283.43
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1366.34
+Refurbished,MSI,Raider,Intel Core i9,32,1000,SSD,RTX 3070,15.6,No,1820.65
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1960.24
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,2115.19
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,1889.29
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 2080,17.3,No,1717.18
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,2429.64
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,2243.18
+Refurbished,MSI,Thin,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,736.49
+Refurbished,MSI,Thin,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,646.73
+Refurbished,MSI,Thin,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,739.38
+Refurbished,MSI,Thin,Intel Core i5,16,512,SSD,RTX 3060,15.6,No,806.49
+Refurbished,MSI,Thin,Intel Core i7,16,512,SSD,GTX 1660,15.6,No,806.28
+Refurbished,MSI,Thin,Intel Core i7,16,512,SSD,RTX 2060,17.3,No,998.69
+Refurbished,MSI,Thin,Intel Core i7,16,512,SSD,RTX 3060,17.3,No,877.09
+Refurbished,MSI,GL65,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,885.84
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,GTX 1660,15.6,No,1043.94
+Refurbished,MSI,Leopard,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,861.99
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 2070,15.6,No,901.09
+Refurbished,MSI,GL75,Intel Core i7,16,1000,SSD,RTX 2060,17.3,No,937.48
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 2060,17.3,No,1073.34
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 2060,17.3,No,1007.59
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 2070,17.3,No,958.04
+Refurbished,MSI,Leopard,Intel Core i7,16,512,SSD,GTX 1660,15.6,No,1182.53
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1086.64
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1022.79
+Refurbished,MSI,Leopard,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1949.0
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 2070,17.3,No,1092.48
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,1283.54
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,1979.0
+Refurbished,MSI,Leopard,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,1999.0
+Refurbished,MSI,Stealth,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1430.18
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,1659.24
+Refurbished,MSI,Stealth,Intel Core i9,64,2000,SSD,RTX 3070,15.6,No,2679.88
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,2256.03
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 2060,17.3,No,1196.48
+Refurbished,MSI,Stealth,Intel Core i7,32,2000,SSD,RTX 2080,17.3,No,2067.84
+Refurbished,MSI,Titan,Intel Core i7,32,1000,SSD,RTX 2070,17.3,No,1721.09
+Refurbished,MSI,Titan,Intel Core i7,64,2000,SSD,RTX 2080,17.3,No,2373.14
+Refurbished,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,916.94
+Refurbished,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1699.0
+Refurbished,MSI,Katana,Intel Core i7,8,512,SSD,RTX 3060,15.6,No,1469.0
+Refurbished,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3070,15.6,No,1071.44
+Refurbished,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1749.0
+Refurbished,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1499.0
+Refurbished,MSI,Katana,Intel Core i7,16,512,SSD,RTX 3060,17.3,No,1549.0
+Refurbished,MSI,Modern,Intel Core i7,32,1000,SSD,MX 330,14.0,No,840.84
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,MX 330,14.0,No,899.99
+Refurbished,MSI,Modern,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,588.29
+Refurbished,MSI,Modern,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,649.0
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,711.94
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,644.39
+Refurbished,MSI,Modern,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,999.0
+Refurbished,MSI,Modern,Intel Core i5,16,512,SSD,RTX 3050,14.0,No,799.0
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,MX 450,14.0,No,1449.0
+Refurbished,MSI,Modern,Intel Core i7,16,512,SSD,MX 450,14.0,No,676.79
+Refurbished,MSI,Modern,Intel Core i7,32,1000,SSD,MX 450,14.0,No,997.74
+Refurbished,MSI,Modern,AMD Ryzen 5,8,512,SSD,RTX 3050,14.0,No,642.39
+Refurbished,MSI,Modern,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,631.18
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,665.74
+Refurbished,MSI,Modern,Intel Core i7,16,1000,SSD,MX 450,15.6,No,712.99
+Refurbished,MSI,Modern,Intel Core i7,32,1000,SSD,MX 450,15.6,No,1399.0
+Refurbished,MSI,Modern,Intel Core i7,32,1000,SSD,MX 450,15.6,No,1123.29
+Refurbished,MSI,Modern,AMD Ryzen 5,8,512,SSD,RTX 3050,15.6,No,444.19
+Refurbished,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 2070,15.6,No,1764.19
+Refurbished,MSI,Prestige,Intel Core i7,16,1000,SSD,GTX 1650,14.0,No,1124.79
+Refurbished,MSI,Prestige,Intel Core i7,16,1000,SSD,GTX 1650,14.0,No,1599.0
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,GTX 1650,14.0,No,843.14
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,GTX 1650,14.0,No,1349.0
+Refurbished,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1499.0
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,RTX 3050,14.0,No,1149.0
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,789.19
+Refurbished,MSI,Prestige,Intel Core i7,16,1000,SSD,GTX 1650,15.6,No,1022.39
+Refurbished,MSI,Prestige,Intel Core i7,32,1000,SSD,GTX 1650,15.6,No,1014.54
+Refurbished,MSI,Prestige,Intel Core i7,32,1000,SSD,GTX 1650,15.6,No,1014.19
+Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,GTX 1650,15.6,No,1529.0
+Refurbished,MSI,Prestige,Intel Core i7,32,1000,SSD,GTX 1650,15.6,No,1040.54
+Refurbished,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 3050,15.6,No,1599.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1599.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1799.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,1899.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2099.0
+Refurbished,MSI,Pulse,Intel Core i7,32,1000,SSD,RTX 3060,17.3,No,1138.23
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,1334.69
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,1699.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,1899.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,1999.0
+Refurbished,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,2199.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,2099.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,2799.0
+Refurbished,MSI,Raider,Intel Core i9,32,1000,SSD,RTX 3080,15.6,No,3399.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,2999.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,2749.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,3699.0
+Refurbished,MSI,Raider,Intel Core i9,64,2000,SSD,RTX 3070,17.3,No,3799.0
+Refurbished,MSI,Raider,Intel Core i9,64,2000,SSD,RTX 3080,17.3,No,4699.0
+Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,3799.0
+Refurbished,MSI,Raider,Intel Core i9,64,2000,SSD,RTX 3070,17.3,No,3599.0
+Refurbished,MSI,Raider,Intel Core i9,64,2000,SSD,RTX 3080,17.3,No,4499.0
+Refurbished,MSI,Stealth,Intel Core i7,16,1000,SSD,GTX 1660,15.6,No,825.64
+Refurbished,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 2060,15.6,No,921.04
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3060,15.6,No,1749.0
+Refurbished,MSI,Stealth,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,1749.0
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3199.0
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3699.0
+Refurbished,MSI,Stealth,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,3249.0
+Refurbished,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 3050,13.4,Yes,1699.0
+Refurbished,MSI,Summit,Intel Core i7,32,1000,SSD,GTX 1650,14.0,Yes,1582.84
+Refurbished,MSI,Summit,Intel Core i7,16,1000,SSD,RTX 3050,14.0,No,1234.33
+Refurbished,MSI,Summit,Intel Core i7,32,1000,SSD,GTX 1650,15.6,Yes,1320.09
+Refurbished,MSI,Titan,Intel Core i9,64,2000,SSD,RTX 3070,17.3,No,4299.0
+Refurbished,MSI,Titan,Intel Core i9,64,2000,SSD,RTX 3080,17.3,No,4999.0
+Refurbished,MSI,Vector,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,2499.0
+Refurbished,MSI,Vector,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,2299.0
+Refurbished,MSI,Vector,Intel Core i9,32,1000,SSD,RTX 3070,17.3,No,2599.0
+Refurbished,MSI,Vector,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,2899.0
+Refurbished,Medion,Akoya,Intel Celeron,4,64,SSD,RTX 3050,14.0,No,246.89
+Refurbished,Microsoft,Surface Pro,Intel Core i7,16,512,SSD,RTX 3050,12.3,No,899.01
+Refurbished,Microsoft,Surface Pro,Intel Core i7,16,1000,SSD,RTX 3050,12.3,No,1776.79
+Refurbished,Microsoft,Surface Pro,Intel Core i7,16,256,SSD,RTX 3050,12.3,No,1094.03
+Refurbished,Microsoft,Surface Pro,Microsoft SQ1,8,128,SSD,RTX 3050,13.0,Yes,1049.0
+Refurbished,Microsoft,Surface Pro,Microsoft SQ1,8,256,SSD,RTX 3050,13.0,Yes,1299.0
+New,PcCom,Revolt,Intel Core i7,32,500,SSD,RTX 4060,15.6,No,1799.9
+New,PcCom,Revolt,Intel Core i7,32,500,SSD,RTX 4060,15.6,No,1949.9
+Refurbished,PcCom,Revolt,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,1049.0
+Refurbished,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,1449.0
+Refurbished,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,1949.0
+Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,GTX 1070,15.6,No,1048.99
+Refurbished,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,1848.14
+Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2899.99
+New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2866.57
+Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3060,15.6,No,2499.98
+Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2899.99
+Refurbished,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3299.99
+Refurbished,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3399.99
+Refurbished,Razer,Blade,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1232.74
+Refurbished,Razer,Blade,Intel Core i7,16,512,SSD,RTX 3070,15.6,No,1583.39
+Refurbished,Razer,Blade,Intel Core i9,32,1000,SSD,RTX 3080,17.3,No,4699.99
+Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3060,17.3,No,2699.99
+Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,2899.99
+Refurbished,Razer,Blade,Intel Core i7,32,1000,SSD,RTX 3080,17.3,No,3399.99
+Refurbished,Razer,Book,Intel Evo Core i7,16,1000,SSD,RTX 3050,13.4,Yes,1899.99
+Refurbished,Razer,Book,Intel Evo Core i7,16,256,SSD,RTX 3050,13.4,Yes,1699.99
